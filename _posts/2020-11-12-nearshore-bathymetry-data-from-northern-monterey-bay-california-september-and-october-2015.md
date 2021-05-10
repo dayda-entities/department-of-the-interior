@@ -2,8 +2,8 @@
 title: >-
   Nearshore bathymetry data from northern Monterey Bay, California, September
   and October 2015
-created: '2020-11-12T17:54:04.209288'
-modified: '2020-11-12T17:54:04.209299'
+created: '2020-11-12T20:47:08.067691'
+modified: '2020-11-12T20:47:08.067699'
 state: active
 type: dataset
 tags:
