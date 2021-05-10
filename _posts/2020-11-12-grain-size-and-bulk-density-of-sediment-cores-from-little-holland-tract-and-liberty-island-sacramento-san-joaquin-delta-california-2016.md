@@ -2,8 +2,8 @@
 title: >-
   Grain size and bulk density of sediment cores from Little Holland Tract and
   Liberty Island, Sacramento-San Joaquin Delta, California, 2016
-created: '2020-11-12T20:26:56.320253'
-modified: '2020-11-12T20:26:56.320261'
+created: '2020-11-12T20:39:58.918282'
+modified: '2020-11-12T20:39:58.918289'
 state: active
 type: dataset
 tags:
