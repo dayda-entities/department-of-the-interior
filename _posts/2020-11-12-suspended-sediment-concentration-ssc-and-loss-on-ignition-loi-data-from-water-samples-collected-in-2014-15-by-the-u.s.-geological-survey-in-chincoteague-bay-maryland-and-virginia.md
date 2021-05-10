@@ -37,7 +37,7 @@ tags:
 groups: []
 csv_url: 'https://doi.org/10.5066/F7WD3XSF'
 json_url: ''
-published: 4
+layout: post
 
 ---
 U.S. Geological Survey scientists and technical support staff measured oceanographic, water quality, seabed elevation change, and meteorological parameters in Chincoteague Bay, Maryland and Virginia, during the period of August 13, 2014 to July 14, 2015 as part of the Estuarine Physical Response (EPR) to Storms project (GS2-2D) supported by the Department of the Interior Hurricane Sandy Recovery program. These measurements provide time series and supplemental data to quantify the response and understand the resilience of this back-barrier estuarine system to storm events. The Assateague Island National Seashore (U.S. National Park Service) and the Chincoteague National Wildlife Refuge (U.S. Fish and Wildlife Service) are both situated on the east side of Chincoteague Bay, and serve as the barrier between Chincoteague Bay and the Atlantic Ocean as well as providing globally important migratory bird habitat and a popular recreation destination.
