@@ -21,7 +21,7 @@ tags:
 groups: []
 csv_url: 'https://doi.org/10.5066/F7XW4H0P'
 json_url: ''
-published: 4
+layout: post
 
 ---
 This dataset contains archival logger data containing measures of tri-axial acceleration and conductivity for 6 female polar bears in the southern Beaufort Sea in April 2014-2016.
