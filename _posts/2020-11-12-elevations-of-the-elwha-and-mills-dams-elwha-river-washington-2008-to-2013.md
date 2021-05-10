@@ -30,7 +30,7 @@ tags:
 groups: []
 csv_url: 'https://doi.org/10.5066/F7PG1QWC'
 json_url: ''
-published: 4
+layout: post
 
 ---
 This dataset presents elevation measurements of two dams on the Elwha River, Washington, during their removal processes from 2008 to 2013. Elevation measurements of the Elwha Dam were taken from October 2008 to March 2012. Elevation measurements of the Glines Canyon dam, which was further upstream than the Elwha Dam, were taken from October 2010 to October 2013. The measurements were by the U.S. Bureau of Reclamation as part of a study investigating the river channel's morphological responses to dam removal.
