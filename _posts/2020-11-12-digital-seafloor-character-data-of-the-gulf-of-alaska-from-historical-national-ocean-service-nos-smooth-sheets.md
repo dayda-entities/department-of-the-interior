@@ -2,8 +2,8 @@
 title: >-
   Digital seafloor character data of the Gulf of Alaska from historical National
   Ocean Service (NOS) smooth sheets
-created: '2020-11-12T20:29:46.153464'
-modified: '2020-11-12T20:29:46.153474'
+created: '2020-11-12T20:53:48.119961'
+modified: '2020-11-12T20:53:48.119967'
 state: active
 type: dataset
 tags:
