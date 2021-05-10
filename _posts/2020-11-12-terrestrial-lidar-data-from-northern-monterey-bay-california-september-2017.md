@@ -24,7 +24,7 @@ groups: []
 csv_url: >-
   https://www.sciencebase.gov/catalog/file/get/5a0c764fe4b09af898cd4004?name=mb17_sept_tls_santacruz.csv
 json_url: ''
-published: 4
+layout: post
 
 ---
 This part of the data release presents topography data from northern Monterey Bay, California collected in September 2017 with a terrestrial lidar scanner.
