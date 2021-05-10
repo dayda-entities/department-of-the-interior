@@ -30,7 +30,7 @@ groups: []
 csv_url: >-
   https://www.sciencebase.gov/catalog/file/get/59fa136be4b0531197aff1de?name=mb16_sept_bathy.csv
 json_url: ''
-published: 4
+layout: post
 
 ---
 This part of the data release presents bathymetry data from northern Monterey Bay, California collected in September 2016 using a personal watercraft (PWC) and small boat. The survey vessels were equipped with single-beam echosounders and survey-grade global navigation satellite system (GNSS) receivers.
