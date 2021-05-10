@@ -44,7 +44,7 @@ tags:
 groups: []
 csv_url: 'https://pubs.usgs.gov/of/2015/1149/data/sediment/2014-046_324seddata.csv'
 json_url: ''
-published: 4
+layout: post
 
 ---
 The U.S. Geological Survey (USGS), in cooperation with the National Oceanic and Atmospheric Administration (NOAA), is producing detailed geologic maps of the coastal sea floor. Bathymetric data, originally collected by NOAA for charting purposes, provide a framework for research and management activities along southern Narragansett Bay, show the composition and terrain of the seabed, and provide information on sediment transport and benthic habitat. During September 2014, bottom photographs and surficial sediment data were acquired as part of a ground-truth reconnaissance survey of this area. Interpretations were derived from the multibeam-echosounder, sedimentary, and photographic data collected in Narragansett Bay. For more information on the ground-truth survey see https://cmgds.marine.usgs.gov/fan_info.php?fan=2014-046-FA.
