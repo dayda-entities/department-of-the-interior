@@ -34,7 +34,7 @@ tags:
 groups: []
 csv_url: 'https://doi.org/10.5066/P97EPU2F'
 json_url: ''
-published: 4
+layout: post
 
 ---
 The T-3 (Fletcher's) Ice Island in the Arctic Ocean was the site of a scientific research station re-established by the Naval Arctic Research Laboratory starting in 1962. Starting in 1963, the USGS acquired marine heat flow data and coincident sediment cores at sites in Canada Basin, Nautilus Basin, Mendeleev Ridge, and Alpha Ridge as the ice island drifted in the Amerasian Basin. Radiogenic heat content in sediments can be an important contributor to measured heat flow. The USGS therefore measured radiogenic heat content in sediments recovered at 26 of the attempted/successful heat flow measurement sites using the laboratory methods available at the time. This dataset reports the measured radiogenic heat values and converts them to modern (SI) units.
