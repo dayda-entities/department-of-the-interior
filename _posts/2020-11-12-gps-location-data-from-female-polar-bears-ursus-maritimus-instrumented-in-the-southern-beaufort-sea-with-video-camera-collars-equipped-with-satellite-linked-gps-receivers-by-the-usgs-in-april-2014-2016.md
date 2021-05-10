@@ -21,7 +21,7 @@ tags:
 groups: []
 csv_url: 'https://doi.org/10.5066/F7XW4H0P'
 json_url: ''
-published: 4
+layout: post
 
 ---
 This dataset contains GPS locations collected by satellite-linked GPS receivers on collars attached to 9 female polar bears that were instrumented in the southern Beaufort Sea in April 2014-2016.
