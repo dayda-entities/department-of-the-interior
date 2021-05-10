@@ -37,7 +37,7 @@ tags:
 groups: []
 csv_url: 'https://doi.org/10.5066/F7PG1QWC'
 json_url: ''
-published: 4
+layout: post
 
 ---
 Sediment inputs to Lake Mills, on the Elwha River, Washington, were measured from 1927 to 2016. These measurements represent the annual total sediment load, in tonnes per year, that were input into Lake Mills and partially trapped by Glines Canyon dam. The sediment was allowed to erode and be transported down-river by the removal of the Glines Canyon and Elwha dams during 2011 to 2014. The measurements were taken as part of a study investigating the river channel's morphological responses to the removal of two large dams - the Elwha River and Glines Canyon dams.
