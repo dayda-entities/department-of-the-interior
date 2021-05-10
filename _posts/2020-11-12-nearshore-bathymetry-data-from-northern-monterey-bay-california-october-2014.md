@@ -28,7 +28,7 @@ groups: []
 csv_url: >-
   https://www.sciencebase.gov/catalog/file/get/59cc235fe4b017cf3142499b?name=mb14_oct_pwc.csv
 json_url: ''
-published: 4
+layout: post
 
 ---
 This part of the data release presents bathymetry data from northern Monterey Bay, California collected in October 2014 using two personal watercraft (PWCs). The PWCs were equipped with single-beam echosounders and survey-grade global navigation satellite system (GNSS) receivers.
