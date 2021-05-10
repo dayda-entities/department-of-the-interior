@@ -21,7 +21,7 @@ tags:
 groups: []
 csv_url: 'https://doi.org/10.5066/F7XW4H0P'
 json_url: ''
-published: 4
+layout: post
 
 ---
 This dataset contains specific activity measures of deuterium oxide and oxygen-18, body mass, and blood biochemistry (blood urea nitrogen and creatinine) data for 9 female polar bears without dependent young in the southern Beaufort Sea in April 2014-2016.
