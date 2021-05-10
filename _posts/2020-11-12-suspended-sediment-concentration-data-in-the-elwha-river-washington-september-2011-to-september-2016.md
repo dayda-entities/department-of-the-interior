@@ -31,7 +31,7 @@ tags:
 groups: []
 csv_url: 'https://doi.org/10.5066/F7PG1QWC'
 json_url: ''
-published: 4
+layout: post
 
 ---
 This data release provides 15-minute data of suspended-sediment concentration and fine (less than 0.0625 mm) suspended-sediment concentration during the removal of 2 large dams on the Elwha River from September 2011 to September 2016. Data are derived from regression relations with turbidity at the USGS gaging station Elwha River at the Diversion (no.12046260).
