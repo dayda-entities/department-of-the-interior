@@ -2,8 +2,8 @@
 title: >-
   Nearshore bathymetry of the Columbia River littoral cell, Washington and
   Oregon, 2019
-created: '2020-11-12T20:29:58.145919'
-modified: '2020-11-12T20:29:58.145927'
+created: '2020-11-12T19:00:48.605510'
+modified: '2020-11-12T19:00:48.605524'
 state: active
 type: dataset
 tags:
