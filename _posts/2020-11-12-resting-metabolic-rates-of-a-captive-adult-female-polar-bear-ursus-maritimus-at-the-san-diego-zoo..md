@@ -18,7 +18,7 @@ tags:
 groups: []
 csv_url: 'https://doi.org/10.5066/F7XW4H0P'
 json_url: ''
-published: 4
+layout: post
 
 ---
 This dataset contains measures of oxygen consumption from an adult female polar bear resting in a metabolic chamber.
