@@ -24,7 +24,7 @@ tags:
 groups: []
 csv_url: 'https://ecos.fws.gov/ServCat/DownloadFile/163827?Reference=104858'
 json_url: ''
-published: 4
+layout: post
 
 ---
 2018's Annual Data files have been uploaded as several digital holdings with data used to support the creation of the Centennial Valley Arctic Grayling Adaptive Management Project Annual Report from 2018. Instructions for creating annual reports, updates, and factsheets are provided in the 'Centennial Valley Arctic Grayling Adaptive Management Plan Annual Report, Spring Update, and Factsheet Workflow Process' document (ServCat record #104853).
