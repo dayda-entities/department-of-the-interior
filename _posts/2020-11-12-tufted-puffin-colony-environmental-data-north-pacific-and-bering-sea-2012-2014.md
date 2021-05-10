@@ -21,7 +21,7 @@ tags:
 groups: []
 csv_url: 'https://doi.org/10.5066/F7TQ60GV'
 json_url: ''
-published: 4
+layout: post
 
 ---
 This dataset describes the marine environment surrounding Tufted puffin colonies in the North Pacific and Bering Sea, 2012-2014. Data were derived to assess the geographic variability in puffin diet in relation to variation in marine habitat. This dataset consisting of: colony, date, latitude, longitude, region, depth, slope, tide, and chlorophyll.
