@@ -37,7 +37,7 @@ tags:
 groups: []
 csv_url: 'https://irma.nps.gov/DataStore/DownloadFile/641839?Reference=2275545'
 json_url: ''
-published: 4
+layout: post
 
 ---
 As part of the Northeast Coastal and Barrier Network's Estuarine Nutrient Enrichment Monitoring program, Network staff and cooperators continued to monitor seagrass cover and health at several park units. This file contains seagrass monitoring data collected between the 2009 and 2018 field seasons at  Assateague Island National Seashore.
