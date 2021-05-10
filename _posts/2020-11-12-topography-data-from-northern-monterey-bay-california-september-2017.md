@@ -24,7 +24,7 @@ groups: []
 csv_url: >-
   https://www.sciencebase.gov/catalog/file/get/5a0c760fe4b09af898cd4000?name=mb17_sept_topo.csv
 json_url: ''
-published: 4
+layout: post
 
 ---
 This part of the data release presents topography data from northern Monterey Bay, California collected in September 2017. Topography data were collected on foot with survey-grade global navigation satellite system (GNSS) receivers mounted on backpacks and with an all-terrain vehicle (ATV) using a GNSS receiver mounted at a measured height above the ground.
