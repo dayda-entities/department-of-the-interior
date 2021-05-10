@@ -27,7 +27,7 @@ tags:
 groups: []
 csv_url: 'https://irma.nps.gov/DataStore/DownloadFile/639382?Reference=2273834'
 json_url: ''
-published: 4
+layout: post
 
 ---
 These files contain SET monitoring data collected at Cape Cod National Seashore
