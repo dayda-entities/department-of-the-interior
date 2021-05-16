@@ -1,17 +1,14 @@
 ---
 title: >-
-  2019 Estuarine Nutrient Enrichment Tier-3 Seagrass Monitoring Data for
-  Assateague Island National Seashore (Certified)
-created: '2020-11-12T19:16:27.806255'
-modified: '2020-11-12T19:16:27.806265'
+  2019 Estuarine Nutrient Enrichment Water Quality Monitoring Data for Fire
+  Island National Seashore (Certified)
+created: '2020-11-12T20:09:42.879634'
+modified: '2020-11-12T20:09:42.879640'
 state: active
 type: dataset
 tags:
-  - >-
-    Ecological Framework Biological Integrity Focal Species Or Communities
-    Estuarine Communities
   - Ecological Framework Water Water Quality Nutrient Dynamics
-  - Eelgrass
+  - Ecological Framework Water Water Quality Water Chemistry
   - Environment
   - Estuary
   - Fiis
@@ -25,19 +22,14 @@ tags:
   - Northeast Region
   - Nutrient Enrichment
   - Resource Management
-  - Ruppia Maritima
-  - Seawrack
   - Virginia
   - Vital Signs
   - Water
   - Water Quality
-  - Widgeon Grass
-  - Widgeongrass
-  - Zostera Marina
 groups: []
-csv_url: 'https://irma.nps.gov/DataStore/DownloadFile/641841?Reference=2275546'
+csv_url: 'https://irma.nps.gov/DataStore/DownloadFile/641946?Reference=2274220'
 json_url: ''
 layout: post
 
 ---
-As part of the Northeast Coastal and Barrier Network's Estuarine Nutrient Enrichment Monitoring program, Network staff and cooperators continued to monitor seagrass cover and health at several park units. This file contains seagrass monitoring data collected during the 2019 field season at  Assateague Island National Seashore.
+As part of the Northeast Coastal and Barrier Network's Estuarine Nutrient Enrichment Monitoring program, Network staff continued to estuarine water quality at several park units. This file contains spatial (i.e., not continuous) water quality data collected during  the 2019 field season at Fire Island National Seashore.
