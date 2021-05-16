@@ -1,37 +1,26 @@
 ---
 title: >-
-  Suspended sediment concentration data in the Elwha River, Washington,
-  September 2011 to September 2016
-created: '2020-11-12T19:05:43.157126'
-modified: '2020-11-12T19:05:43.157133'
+  Suspended-sediment concentration data from water samples collected in 2016-17
+  in Grand Bay, Alabama and Mississippi
+created: '2020-11-12T18:53:09.675895'
+modified: '2020-11-12T18:53:09.675901'
 state: active
 type: dataset
 tags:
-  - Clallam County
-  - Cmpg
-  - Coastal And Marine Geology Program
-  - Elwha Dam Historical
-  - Elwha River
-  - Field Inventory And Monitoring
-  - Glines Canyon Dam Historical
-  - Olympic National Park
-  - Pacific Coastal And Marine Science Center
-  - Pcmsc
-  - River Bank
-  - River Channel
-  - Sediment Deposition
+  - Bayou Heron
+  - Bayou Middle
+  - Grand Bay
+  - Grand Bay National Estuarine Research Reserve
+  - Grand Bay National Wildlife Refuge
+  - Middle Bayou
+  - Mississippi
   - Sediment Transport
-  - State Of Washington
-  - Stream Discharge
-  - Substrate
-  - Us Bureau Of Reclamation
-  - Us Geological Survey
-  - Usbr
-  - Usgs
+  - Suspended Material Water
+  - Usgs5dbb3772e4b06957974ec455
 groups: []
-csv_url: 'https://doi.org/10.5066/F7PG1QWC'
+csv_url: 'https://doi.org/10.5066/P91L4A75'
 json_url: ''
 layout: post
 
 ---
-This data release provides 15-minute data of suspended-sediment concentration and fine (less than 0.0625 mm) suspended-sediment concentration during the removal of 2 large dams on the Elwha River from September 2011 to September 2016. Data are derived from regression relations with turbidity at the USGS gaging station Elwha River at the Diversion (no.12046260).
+Suspended-sediment transport is a critical element governing the geomorphology of tidal marshes and estuaries. Marsh elevation, relative to sea level, is maintained by both organic material and the deposition of inorganic sediment. Additionally, horizontal marsh extent is altered by lateral erosion and accretion. In wetlands within and near Grand Bay National Estuarine Research Reserve, parts of the salt marsh are eroding relatively rapidly. To understand the connection between sediment fluxes and these processes, the U.S. Geological Survey made oceanographic and water-quality measurements from August 2, 2016, to January 28, 2017, to quantify suspended-sediment concentration and sediment transport in tidal channels and open embayments in and near Grand Bay National Estuarine Research Reserve.
