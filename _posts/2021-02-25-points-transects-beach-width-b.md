@@ -1,24 +1,23 @@
 ---
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
-  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Cedar
-  Island, VA, 2013–2014
-created: '2021-02-25T22:27:50.236947'
-modified: '2021-02-25T22:27:50.236955'
+  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Edwin
+  B. Forsythe NWR, NJ, 2013–2014
+created: '2021-02-25T22:49:07.318852'
+modified: '2021-02-25T22:49:07.318860'
 state: active
 type: dataset
 tags:
   - Atlantic Ocean
   - Barrier Island
   - Bayesian Network
-  - Cedar Island
   - Cmgp
   - Coastal And Marine Geology Program
   - Coastal Erosion
   - Coastal Habitat
   - Coastal Hazards
   - Coastal Processes
-  - Delmarva Peninsula
+  - Edwin B Forsythe Nwr
   - Erosion
   - Geographic Information Systems
   - Geomorphology
@@ -27,10 +26,14 @@ tags:
   - Gis
   - Hazards
   - Land Use And Land Cover
+  - Long Beach Island
   - Mean High Water
   - Mhw
+  - New Jersey
+  - Nj
   - North America
   - Probability
+  - Pullen Island
   - Sea Level Change
   - Sea Level Rise
   - Shoreline Change
@@ -40,10 +43,7 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5d0bc8ede4b0941bde4fc5b7
-  - Va
-  - Virginia
-  - Virginia Coast Reserve
+  - Usgs5d0bc91ae4b0941bde4fc5f7
   - Woods Hole Coastal And Marine Science Center
 groups: []
 csv_url: 'https://doi.org/10.5066/P944FPA4'
