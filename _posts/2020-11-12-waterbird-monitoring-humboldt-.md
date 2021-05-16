@@ -1,0 +1,144 @@
+---
+title: Waterbird Monitoring Humboldt Bay NWR Species List
+created: '2020-11-12T20:46:05.944014'
+modified: '2020-11-12T20:46:05.944025'
+state: active
+type: dataset
+tags:
+  - Aechmophorus Occidentalis
+  - Aeo
+  - American Avocet
+  - American Bittern
+  - American Coot
+  - American Wigeon
+  - Anas Acuta
+  - Anas Americana
+  - Anas Clypeata
+  - Anas Crecca
+  - Anas Cyanoptera
+  - Anas Discors
+  - Anas Penelope
+  - Anas Platyrhynchos
+  - Anas Strepera
+  - Anser Albifrons
+  - Ardea Alba
+  - Ardea Herodias
+  - Aythya
+  - Aythya Americana
+  - Aythya Collaris
+  - Black Bellied Plover
+  - Black Crowned Night Heron
+  - Black Necked Grebe
+  - Black Necked Stilt
+  - Blue Goose
+  - Blue Winged Teal
+  - Botaurus Lentiginosus
+  - Branta Bernicla Nigricans
+  - Branta Canadensis
+  - Branta Hutchinsii
+  - Branta Hutchinsii Leucopareia
+  - Brown Pelican
+  - Bubulcus Ibis
+  - Bucephala
+  - Bucephala Albeola
+  - Bufflehead
+  - Cackling Goose
+  - Calidris Alpina
+  - Calidris Mauri
+  - Calidris Minutilla
+  - Canada Goose
+  - Caspian Tern
+  - Cattle Egret
+  - Charadrius Semipalmatus
+  - Charadrius Vociferus
+  - Chen Caerulescens
+  - Cinnamon Teal
+  - Common Merganser
+  - Common Snipe
+  - Cygnus Columbianus
+  - Diving Ducks
+  - Double Crested Cormorant
+  - Dowitchers
+  - Dunlin
+  - Eared Grebe
+  - Egretta Thula
+  - Eurasian Teal
+  - Eurasian Wigeon
+  - Ff08rhmb00 021
+  - Fulica Americana
+  - Gadwall
+  - Gallinago Delicata
+  - Gallinago Gallinago
+  - Gavia
+  - General Biology Species Birds
+  - General Management Natural Resources Management Wildlife Management
+  - Goldeneyes
+  - Great Blue Heron
+  - Great Egret
+  - Greater White Fronted Goose
+  - Greater Yellowlegs
+  - Green Winged Teal
+  - Grey Plover
+  - Grus Canadensis
+  - Gulls
+  - Hawaiian Stilt
+  - Himantopus Mexicanus
+  - Hooded Merganser
+  - Horned Grebe
+  - Hydroprogne Caspia
+  - Killdeer
+  - Laridae
+  - Least Sandpiper
+  - Limnodromus
+  - Limosa Fedoa
+  - Long Billed Curlew
+  - Loons
+  - Lophodytes Cucullatus
+  - Mallard
+  - Marbled Godwit
+  - Mergus Merganser
+  - Northern Pintail
+  - Northern Shoveler
+  - Numenius Americanus
+  - Numenius Phaeopus
+  - Nycticorax Nycticorax
+  - Oxyura Jamaicensis
+  - Pelecanus Occidentalis
+  - Phalacrocorax Auritus
+  - Phalaropes
+  - Phalaropus
+  - Pied Billed Grebe
+  - Pluvialis Squatarola
+  - Podiceps Auritus
+  - Podiceps Nigricollis
+  - Podilymbus Podiceps
+  - Porzana Carolina
+  - Rallus Limicola
+  - Recurvirostra Americana
+  - Redhead
+  - Ring Necked Duck
+  - Ruddy Duck
+  - Sandhill Crane
+  - Semipalmated Plover
+  - Skimmers
+  - Snow Goose
+  - Snowy Egret
+  - Sora
+  - Terns
+  - Tringa Melanoleuca
+  - Tringa Semipalmata
+  - Tundra Swan
+  - Virginia Rail
+  - Western Cattle Egret
+  - Western Grebe
+  - Western Sandpiper
+  - Whimbrel
+  - Willet
+  - Wilsons Snipe
+groups: []
+csv_url: 'https://ecos.fws.gov/ServCat/DownloadFile/149434?Reference=99048'
+json_url: ''
+layout: post
+
+---
+This csv file contains a list of the taxon monitored for the Humboldt Bay National Wildlife Refuge Waterbird Monitoring survey.  The Integrated Taxonomic Information System Taxonomic Serial Number (TSN) was chosen as the primary taxonomic data standard.  The table includes a cross-walk to taxonomic data standards of FWSpecies and The Institute for Bird Populations.  If a particular taxa did not have an equivalent data standard, a null value is used.
