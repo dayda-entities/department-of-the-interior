@@ -1,23 +1,23 @@
 ---
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
-  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Myrtle
-  Island, VA, 2014
-created: '2020-11-12T19:14:01.381545'
-modified: '2020-11-12T19:14:01.381553'
+  habitat metrics at 50-m alongshore transects and 5-m cross-shore points
+  Monomoy Island, MA, 2013-2014
+created: '2020-11-12T19:23:12.977605'
+modified: '2020-11-12T19:23:12.977617'
 state: active
 type: dataset
 tags:
   - Atlantic Ocean
   - Barrier Island
   - Bayesian Network
+  - Cape Cod
   - Cmhrp
   - Coastal And Marine Hazards And Resources Program
   - Coastal Erosion
   - Coastal Habitat
   - Coastal Hazards
   - Coastal Processes
-  - Delmarva Peninsula
   - Erosion
   - Geographic Information Systems
   - Geomorphology
@@ -26,9 +26,12 @@ tags:
   - Gis
   - Hazards
   - Land Use And Land Cover
+  - Ma
+  - Massachusetts
   - Mean High Water
   - Mhw
-  - Myrtle Island
+  - Monomoy Island
+  - Monomoy National Wildlife Refuge
   - North America
   - Probability
   - Sea Level Change
@@ -40,10 +43,7 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5daa37d7e4b09fd3b0c9cee6
-  - Va
-  - Virginia
-  - Virginia Coast Reserve
+  - Usgs5daa3730e4b09fd3b0c9ce30
   - Woods Hole Coastal And Marine Science Center
 groups: []
 csv_url: 'https://doi.org/10.5066/P9V7F6UX'
