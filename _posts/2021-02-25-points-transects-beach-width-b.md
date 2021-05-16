@@ -1,10 +1,10 @@
 ---
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
-  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Fire
-  Island, NY, 2014–2015
-created: '2021-02-25T21:14:53.144733'
-modified: '2021-02-25T21:14:53.144740'
+  habitat metrics at 50-m alongshore transects and 5-m cross-shore points
+  Rockaway Peninsula, NY, 2013–2014
+created: '2021-02-25T20:58:49.642260'
+modified: '2021-02-25T20:58:49.642267'
 state: active
 type: dataset
 tags:
@@ -18,8 +18,7 @@ tags:
   - Coastal Hazards
   - Coastal Processes
   - Erosion
-  - Fire Island
-  - Fire Island National Seashore
+  - Gateway National Recreation Area
   - Geographic Information Systems
   - Geomorphology
   - Geospatial Analysis
@@ -34,6 +33,7 @@ tags:
   - North America
   - Ny
   - Probability
+  - Rockaway Peninsula
   - Sea Level Change
   - Sea Level Rise
   - Shoreline Change
@@ -43,7 +43,7 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5d0bc948e4b0941bde4fc630
+  - Usgs5d0bc979e4b0941bde4fc66c
   - Woods Hole Coastal And Marine Science Center
 groups: []
 csv_url: 'https://doi.org/10.5066/P944FPA4'
