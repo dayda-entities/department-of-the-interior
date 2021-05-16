@@ -1,7 +1,9 @@
 ---
-title: 'Nearshore bathymetry data from northern Monterey Bay, California, March 2015'
-created: '2020-11-12T21:18:36.255866'
-modified: '2020-11-12T21:18:36.255873'
+title: >-
+  Nearshore bathymetry data from northern Monterey Bay, California, September
+  and October 2015
+created: '2020-11-12T20:47:08.067691'
+modified: '2020-11-12T20:47:08.067699'
 state: active
 type: dataset
 tags:
@@ -26,9 +28,9 @@ tags:
   - Water Depth
 groups: []
 csv_url: >-
-  https://www.sciencebase.gov/catalog/file/get/59e0e847e4b05fe04cd00004?name=mb15_mar_pwc.csv
+  https://www.sciencebase.gov/catalog/file/get/59e536cee4b05fe04cd1bc89?name=mb15_sept_pwc.csv
 json_url: ''
 layout: post
 
 ---
-This part of the data release presents bathymetry data from northern Monterey Bay, California collected in March 2015 using two personal watercraft (PWCs). The PWCs were equipped with single-beam echosounders and survey-grade global navigation satellite system (GNSS) receivers.
+This part of the data release presents bathymetry data from northern Monterey Bay, California collected in September and October 2015 using two personal watercraft (PWCs). The PWCs were equipped with single-beam echosounders and survey-grade global navigation satellite system (GNSS) receivers.
