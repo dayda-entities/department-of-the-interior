@@ -2,9 +2,9 @@
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
   habitat metrics at 50-m alongshore transects and 5-m cross-shore points
-  Rockaway Peninsula, NY, 2013–2014
-created: '2021-02-25T20:58:49.642260'
-modified: '2021-02-25T20:58:49.642267'
+  Rockaway Peninsula, NY, 2010–2011
+created: '2021-02-25T20:53:56.546399'
+modified: '2021-02-25T20:53:56.546406'
 state: active
 type: dataset
 tags:
@@ -43,7 +43,7 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5d0bc979e4b0941bde4fc66c
+  - Usgs5d0bc95ae4b0941bde4fc644
   - Woods Hole Coastal And Marine Science Center
 groups: []
 csv_url: 'https://doi.org/10.5066/P944FPA4'
