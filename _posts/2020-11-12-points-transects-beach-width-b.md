@@ -1,24 +1,25 @@
 ---
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
-  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Parker
-  River, MA, 2014
-created: '2020-11-12T17:21:59.007505'
-modified: '2020-11-12T17:21:59.007513'
+  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Fire
+  Island, NY, 2012
+created: '2020-11-12T17:21:04.585969'
+modified: '2020-11-12T17:21:04.585980'
 state: active
 type: dataset
 tags:
   - Atlantic Ocean
   - Barrier Island
   - Bayesian Network
-  - Cape Ann
-  - Cmhrp
-  - Coastal And Marine Hazards And Resources Program
+  - Cmgp
+  - Coastal And Marine Geology Program
   - Coastal Erosion
   - Coastal Habitat
   - Coastal Hazards
   - Coastal Processes
   - Erosion
+  - Fire Island
+  - Fire Island National Seashore
   - Geographic Information Systems
   - Geomorphology
   - Geospatial Analysis
@@ -26,13 +27,12 @@ tags:
   - Gis
   - Hazards
   - Land Use And Land Cover
-  - Ma
-  - Massachusetts
+  - Long Island
   - Mean High Water
   - Mhw
+  - New York
   - North America
-  - Parker River
-  - Parker River National Wildlife Refuge
+  - Ny
   - Probability
   - Sea Level Change
   - Sea Level Rise
@@ -43,10 +43,10 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5daa3741e4b09fd3b0c9ce43
+  - Usgs5d0bc939e4b0941bde4fc61d
   - Woods Hole Coastal And Marine Science Center
 groups: []
-csv_url: 'https://doi.org/10.5066/P9V7F6UX'
+csv_url: 'https://doi.org/10.5066/P944FPA4'
 json_url: ''
 layout: post
 
