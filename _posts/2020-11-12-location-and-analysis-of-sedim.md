@@ -1,74 +1,67 @@
 ---
 title: >-
-  Location and analysis of sediment samples collected by the U.S. Geological
-  Survey in 2014 along the Delmarva Peninsula, MD and VA (Esri point shapefile
-  and CSV file, Geographic, WGS 84)
-created: '2020-11-12T20:44:41.476714'
-modified: '2020-11-12T20:44:41.476722'
+  Location and analysis of sediment samples collected during field activity
+  2012-035-FA by the U.S. Geological Survey and Massachusetts Office of Coastal
+  Zone Management in Ipswich Bay and Massachusetts Bay, Massachusetts, in August
+  2012 (point shapefile and CSV file)
+created: '2020-11-12T19:17:55.916125'
+modified: '2020-11-12T19:17:55.916138'
 state: active
 type: dataset
 tags:
-  - '2014'
-  - Assateague Island
-  - Assateague Island National Seashore
-  - Assawoman Bay
+  - '2012'
   - Atlantic Ocean
-  - Berlin
-  - Bethany Beach
-  - Cape Henlopen
-  - Carbonate
-  - Chincoteague Bay
-  - Chincoteague Island
-  - Chincoteague National Wildlife Refuge
+  - Bay
+  - Bigelow Bight
+  - Cape Ann
   - Clay
   - Cmgp
   - Coastal And Marine Geology Program
-  - Delaware
-  - Delaware Bay
-  - Delaware Seashore State Park
-  - Esri Shapefile
-  - Fenwick Island
-  - Geospatial Datasets
+  - Continental Shelf
+  - Czm
+  - Field Activity 2012 035 Fa
+  - Field Activity Number 12035
+  - Grab Sampling
   - Grain Size Analysis
   - Gravel
   - Ground Truth
-  - Isle Of Wight Bay
+  - Gulf Of Maine
+  - Ipswich Bay
+  - Ma Czm
   - Marine Geology
-  - Maryland
-  - Mv Scarlett Isabella
-  - Navigational Data
+  - Massachusetts
+  - Massachusetts Bay
+  - Massachusetts Office Of Coastal Zone Management
+  - Massczm
   - North America
-  - Ocean City
-  - Parramore Island
-  - Rehoboth Beach
+  - Osv Bold
+  - Plum Island
   - Sand
   - Sea Floor
   - Sea Floor Characteristics
   - Seabed
-  - Seaboss Sampler
+  - Seabed Observation And Sampling System
+  - Seaboss
   - Seafloor
   - Seafloor Samples
-  - Seafoor
+  - Sediment Analysis
   - Sediment Data
   - Sediment Samples
   - Sediments
+  - Shapefile
   - Silt
   - Stations
   - Surficial Sediment Classification
-  - Toms Cove
   - United States
   - Us Geological Survey
   - Usgs
   - Van Veen Grab Sampler
-  - Virginia
-  - Wallops Island
   - Whcmsc
-  - Whcmsc Field Activity Serial Number 2014 002 Fa
   - Woods Hole Coastal And Marine Science Center
 groups: []
-csv_url: 'https://doi.org/10.5066/F7MW2F60'
+csv_url: 'https://cmgds.marine.usgs.gov/data/field-activity-data/2012-035-FA/'
 json_url: ''
 layout: post
 
 ---
-The Delmarva Peninsula is a 220-kilometer-long headland, spit, and barrier island complex that was significantly affected by Hurricane Sandy. A U.S. Geological Survey cruise was conducted in the summer of 2014 to map the inner continental shelf of the Delmarva Peninsula using geophysical and sampling techniques to define the geologic framework that governs coastal system evolution at storm-event and longer timescales. Data collected during the 2014 cruise include swath bathymetry, sidescan sonar, chirp and boomer seismic-reflection profiles, acoustic Doppler current profiler, and sample and bottom photograph data. Processed data in raster and vector format are released here for the bottom photographs and sediment samples. More information about the USGS survey conducted as part of the Hurricane Sandy Response-- Geologic Framework and Coastal Vulnerability Study can be found at the project website or on the WHCMSC Field Activity Web pages: https://woodshole.er.usgs.gov/project-pages/delmarva/ and https://cmgds.marine.usgs.gov/fan_info.php?fan=2014-002-FA
+Accurate data and maps of sea-floor geology are important first steps toward protecting habitat, delineating marine resources, and assessing environmental changes due to natural or human effects. Initiated in 2003, the primary objective of the Geologic Mapping of the Massachusetts Sea Floor program is to develop regional geologic framework information for the management of coastal and marine resources. The program is focused on the inshore waters (primarily 5-30 meters deep, although the region surveyed in this field activity includes waters up to 90 meters deep) of Massachusetts. This dataset, collected aboard the Ocean Survey Vessel (OSV) Bold as part of the Geologic Mapping of the Massachusetts Sea Floor Program, is from U.S. Geological Survey (USGS) sampling survey 2012-035-FA (August 21-27, 2012) by the USGS Woods Hole Coastal and Marine Science Center and the Massachusetts Office of Coastal Zone Management with partners from the Massachusetts Bays Program, the Massachusetts Department of Environmental Protection, the Massachusetts Division of Marine Fisheries, and the U.S. Environmental Protection Agency. During the survey, surficial sediment samples and bottom still and video imagery were collected in Ipswich Bay and Massachusetts Bay, Massachusetts.
