@@ -1,7 +1,7 @@
 ---
-title: 'Terrestrial lidar data from northern Monterey Bay, California, September 2015'
-created: '2020-11-12T19:45:51.186683'
-modified: '2020-11-12T19:45:51.186690'
+title: 'Terrestrial lidar data from northern Monterey Bay, California, March 2015'
+created: '2020-11-12T18:27:24.894312'
+modified: '2020-11-12T18:27:24.894320'
 state: active
 type: dataset
 tags:
@@ -22,9 +22,9 @@ tags:
   - Usgs
 groups: []
 csv_url: >-
-  https://www.sciencebase.gov/catalog/file/get/59f0dc85e4b0220bbd9c6a83?name=mb15_sept_tls_santacruz.csv
+  https://www.sciencebase.gov/catalog/file/get/59e0ed15e4b05fe04cd00030?name=mb15_mar_tls_santacruz.csv
 json_url: ''
 layout: post
 
 ---
-This part of the data release presents topography data from northern Monterey Bay, California collected in September 2015 with a terrestrial lidar scanner.
+This part of the data release presents topography data from northern Monterey Bay, California collected in March 2015 with a terrestrial lidar scanner.
