@@ -1,23 +1,23 @@
 ---
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
-  habitat metrics at 50-m alongshore transects and 5-m cross-shore points
-  Parramore Island, VA, 2014
-created: '2020-11-12T18:36:00.226900'
-modified: '2020-11-12T18:36:00.226909'
+  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Edwin
+  B. Forsythe NWR, NJ, 2010
+created: '2020-11-12T20:18:01.570267'
+modified: '2020-11-12T20:18:01.570278'
 state: active
 type: dataset
 tags:
   - Atlantic Ocean
   - Barrier Island
   - Bayesian Network
-  - Cmhrp
-  - Coastal And Marine Hazards And Resources Program
+  - Cmgp
+  - Coastal And Marine Geology Program
   - Coastal Erosion
   - Coastal Habitat
   - Coastal Hazards
   - Coastal Processes
-  - Delmarva Peninsula
+  - Edwin B Forsythe Nwr
   - Erosion
   - Geographic Information Systems
   - Geomorphology
@@ -26,11 +26,14 @@ tags:
   - Gis
   - Hazards
   - Land Use And Land Cover
+  - Long Beach Island
   - Mean High Water
   - Mhw
+  - New Jersey
+  - Nj
   - North America
-  - Parramore Island
   - Probability
+  - Pullen Island
   - Sea Level Change
   - Sea Level Rise
   - Shoreline Change
@@ -40,13 +43,10 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5daa37e5e4b09fd3b0c9cef7
-  - Va
-  - Virginia
-  - Virginia Coast Reserve
+  - Usgs5d0bc8fbe4b0941bde4fc5d1
   - Woods Hole Coastal And Marine Science Center
 groups: []
-csv_url: 'https://doi.org/10.5066/P9V7F6UX'
+csv_url: 'https://doi.org/10.5066/P944FPA4'
 json_url: ''
 layout: post
 
