@@ -2,9 +2,9 @@
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
   habitat metrics at 50-m alongshore transects and 5-m cross-shore points Cedar
-  Island, VA, 2012–2013
-created: '2021-02-25T22:20:03.024665'
-modified: '2021-02-25T22:20:03.024674'
+  Island, VA, 2013–2014
+created: '2021-02-25T22:27:50.236947'
+modified: '2021-02-25T22:27:50.236955'
 state: active
 type: dataset
 tags:
@@ -40,7 +40,7 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5d0bc8e0e4b0941bde4fc5a6
+  - Usgs5d0bc8ede4b0941bde4fc5b7
   - Va
   - Virginia
   - Virginia Coast Reserve
