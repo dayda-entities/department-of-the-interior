@@ -1,10 +1,10 @@
 ---
 title: >-
   Point shapefile of processed continuous resistivity profiling data below the
-  sediment water interface collected in Greenwich Bay, Rhode Island, on May 15,
+  sediment water interface collected in Greenwich Bay, Rhode Island, on May 14,
   2009, on U.S. Geological Survey Field Activity 2009-021-FA (Geographic, WGS84)
-created: '2020-11-12T19:18:22.510518'
-modified: '2020-11-12T19:18:22.510525'
+created: '2020-11-12T18:36:57.524674'
+modified: '2020-11-12T18:36:57.524681'
 state: active
 type: dataset
 tags:
