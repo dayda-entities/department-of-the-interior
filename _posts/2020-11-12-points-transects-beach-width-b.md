@@ -1,26 +1,22 @@
 ---
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
-  habitat metrics at 50-m alongshore transects and 5-m cross-shore points
-  Assateague Island, MD & VA, 2014
-created: '2020-11-12T19:06:00.887096'
-modified: '2020-11-12T19:06:00.887108'
+  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Rhode
+  Island National Wildlife Refuge, RI, 2014
+created: '2020-11-12T19:01:58.059951'
+modified: '2020-11-12T19:01:58.059962'
 state: active
 type: dataset
 tags:
-  - Assateague Island
-  - Assateague Island National Seashore
   - Atlantic Ocean
   - Barrier Island
   - Bayesian Network
-  - Chincoteague National Wildlife Refuge
   - Cmhrp
   - Coastal And Marine Hazards And Resources Program
   - Coastal Erosion
   - Coastal Habitat
   - Coastal Hazards
   - Coastal Processes
-  - Delmarva Peninsula
   - Erosion
   - Geographic Information Systems
   - Geomorphology
@@ -29,24 +25,24 @@ tags:
   - Gis
   - Hazards
   - Land Use And Land Cover
-  - Maryland
-  - Md
   - Mean High Water
   - Mhw
   - North America
   - Probability
+  - Rhode Island
+  - Rhode Island National Wildlife Refuge Complex
+  - Ri
   - Sea Level Change
   - Sea Level Rise
   - Shoreline Change
   - St Petersburg Coastal And Marine Science Center
   - Transect Sampling
+  - Trustom Pond
   - United States
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5daa3789e4b09fd3b0c9ce8f
-  - Va
-  - Virginia
+  - Usgs5daa3777e4b09fd3b0c9ce7c
   - Woods Hole Coastal And Marine Science Center
 groups: []
 csv_url: 'https://doi.org/10.5066/P9V7F6UX'
