@@ -1,10 +1,10 @@
 ---
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
-  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Cobb
-  Island, VA, 2014
-created: '2020-11-12T18:38:08.765794'
-modified: '2020-11-12T18:38:08.765805'
+  habitat metrics at 50-m alongshore transects and 5-m cross-shore points
+  Parramore Island, VA, 2014
+created: '2020-11-12T18:36:00.226900'
+modified: '2020-11-12T18:36:00.226909'
 state: active
 type: dataset
 tags:
@@ -17,7 +17,6 @@ tags:
   - Coastal Habitat
   - Coastal Hazards
   - Coastal Processes
-  - Cobb Island
   - Delmarva Peninsula
   - Erosion
   - Geographic Information Systems
@@ -30,6 +29,7 @@ tags:
   - Mean High Water
   - Mhw
   - North America
+  - Parramore Island
   - Probability
   - Sea Level Change
   - Sea Level Rise
@@ -40,7 +40,7 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5daa37aae4b09fd3b0c9ceb3
+  - Usgs5daa37e5e4b09fd3b0c9cef7
   - Va
   - Virginia
   - Virginia Coast Reserve
