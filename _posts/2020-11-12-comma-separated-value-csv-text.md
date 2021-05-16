@@ -1,42 +1,37 @@
 ---
 title: >-
-  Comma separated value (CSV) text files of navigation and elevation data
-  collected by the U.S. Geological Survey during field activity 2016-030-FA
-  offshore Sandwich Beach, MA in June 2016
-created: '2020-11-12T19:23:25.196007'
-modified: '2020-11-12T19:23:25.196014'
+  Comma separated value (CSV) text file of post-processed kinematic (PPK) data
+  calculated from raw data logged on two Spectra Precision SP80 GNSS receivers
+  during survey 2016-030-FA conducted offshore Sandwich Beach, MA by the U.S.
+  Geological Survey in 2016
+created: '2020-11-12T19:29:38.974441'
+modified: '2020-11-12T19:29:38.974451'
 state: active
 type: dataset
 tags:
-  - Bathymetry
-  - Bathymetry Measurement
   - Cmgp
   - Coastal And Marine Geology Program
-  - Datasets
-  - Digital Elevation Models
   - Field Activity Number 2016 030 Fa
   - Field Inventory And Monitoring
   - Field Methods
   - Geolocation Measurement
   - Geospatial Datasets
   - Gps Measurement
-  - Gps Navigation
-  - Humminbird 898c Hd Si Combo
   - Jetyak
   - Map Coordinate Systems
   - Marine Geology
   - Massachusetts
   - Navigational Data
   - North America
+  - Post Processed Kinematic
+  - Rtk Navigation
   - Rv Knob
   - Sandwich
   - Sandwich Beach
-  - Single Beam Echo Sounder
-  - Sonar Methods
+  - Spectra Precision Sp80 Gnss Receiver
   - United States
   - Us Geological Survey
   - Usgs
-  - Waas Navigation
   - Whcmsc
   - Woods Hole Coastal And Marine Science Center
 groups: []
