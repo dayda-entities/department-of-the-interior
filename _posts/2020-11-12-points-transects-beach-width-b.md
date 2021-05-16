@@ -1,24 +1,23 @@
 ---
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
-  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Cape
-  Hatteras, NC, 2014
-created: '2020-11-12T17:55:52.260425'
-modified: '2020-11-12T17:55:52.260432'
+  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Edwin
+  B. Forsythe NWR, NJ, 2012
+created: '2020-11-12T17:49:53.079177'
+modified: '2020-11-12T17:49:53.079184'
 state: active
 type: dataset
 tags:
   - Atlantic Ocean
   - Barrier Island
   - Bayesian Network
-  - Cape Hatteras
-  - Cape Hatteras National Seashore
-  - Cmhrp
-  - Coastal And Marine Hazards And Resources Program
+  - Cmgp
+  - Coastal And Marine Geology Program
   - Coastal Erosion
   - Coastal Habitat
   - Coastal Hazards
   - Coastal Processes
+  - Edwin B Forsythe Nwr
   - Erosion
   - Geographic Information Systems
   - Geomorphology
@@ -27,13 +26,14 @@ tags:
   - Gis
   - Hazards
   - Land Use And Land Cover
+  - Long Beach Island
   - Mean High Water
   - Mhw
-  - Nc
+  - New Jersey
+  - Nj
   - North America
-  - North Carolina
-  - Ocracoke Island
   - Probability
+  - Pullen Island
   - Sea Level Change
   - Sea Level Rise
   - Shoreline Change
@@ -43,10 +43,10 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5daa3765e4b09fd3b0c9ce69
+  - Usgs5d0bc90be4b0941bde4fc5e4
   - Woods Hole Coastal And Marine Science Center
 groups: []
-csv_url: 'https://doi.org/10.5066/P9V7F6UX'
+csv_url: 'https://doi.org/10.5066/P944FPA4'
 json_url: ''
 layout: post
 
