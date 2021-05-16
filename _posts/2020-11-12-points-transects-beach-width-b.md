@@ -1,24 +1,25 @@
 ---
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
-  habitat metrics at 50-m alongshore transects and 5-m cross-shore points
-  Rockaway Peninsula, NY, 2012
-created: '2020-11-12T18:31:58.641643'
-modified: '2020-11-12T18:31:58.641654'
+  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Cobb
+  Island, VA, 2014
+created: '2020-11-12T18:38:08.765794'
+modified: '2020-11-12T18:38:08.765805'
 state: active
 type: dataset
 tags:
   - Atlantic Ocean
   - Barrier Island
   - Bayesian Network
-  - Cmgp
-  - Coastal And Marine Geology Program
+  - Cmhrp
+  - Coastal And Marine Hazards And Resources Program
   - Coastal Erosion
   - Coastal Habitat
   - Coastal Hazards
   - Coastal Processes
+  - Cobb Island
+  - Delmarva Peninsula
   - Erosion
-  - Gateway National Recreation Area
   - Geographic Information Systems
   - Geomorphology
   - Geospatial Analysis
@@ -26,14 +27,10 @@ tags:
   - Gis
   - Hazards
   - Land Use And Land Cover
-  - Long Island
   - Mean High Water
   - Mhw
-  - New York
   - North America
-  - Ny
   - Probability
-  - Rockaway Peninsula
   - Sea Level Change
   - Sea Level Rise
   - Shoreline Change
@@ -43,10 +40,13 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5d0bc96ae4b0941bde4fc657
+  - Usgs5daa37aae4b09fd3b0c9ceb3
+  - Va
+  - Virginia
+  - Virginia Coast Reserve
   - Woods Hole Coastal And Marine Science Center
 groups: []
-csv_url: 'https://doi.org/10.5066/P944FPA4'
+csv_url: 'https://doi.org/10.5066/P9V7F6UX'
 json_url: ''
 layout: post
 
