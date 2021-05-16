@@ -1,9 +1,9 @@
 ---
 title: >-
   Table and accompanying photographs for biogeomorphic classification of
-  shorebird nesting sites on the U.S. Atlantic coast from May to August, 2014
-created: '2020-11-12T17:31:57.267662'
-modified: '2020-11-12T17:31:57.267669'
+  shorebird nesting sites on the U.S. Atlantic coast from April to August, 2015
+created: '2020-11-12T18:03:42.501267'
+modified: '2020-11-12T18:03:42.501275'
 state: active
 type: dataset
 tags:
@@ -46,13 +46,13 @@ tags:
   - Us Atlantic East Coast
   - Us Geological Survey
   - Usgs
-  - Usgs57e051c5e4b09082500213b0
+  - Usgs57e0378ee4b090825002132e
   - Virginia
   - Whcmsc
   - Wildlife Biology
   - Woods Hole Coastal And Marine Science Center
 groups: []
-csv_url: 'https://www.sciencebase.gov/catalog/item/57e051c5e4b09082500213b0'
+csv_url: 'https://www.sciencebase.gov/catalog/item/57e0378ee4b090825002132e'
 json_url: ''
 layout: post
 
