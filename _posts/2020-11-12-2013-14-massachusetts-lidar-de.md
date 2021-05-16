@@ -1,14 +1,14 @@
 ---
-title: 2013-14 Massachusetts Lidar-Derived Dune Crest Point Data
-created: '2020-11-12T17:45:45.019967'
-modified: '2020-11-12T17:45:45.019975'
+title: 2013-14 Massachusetts Lidar-Derived Dune Toe Point Data
+created: '2020-11-12T19:19:02.038234'
+modified: '2020-11-12T19:19:02.038243'
 state: active
 type: dataset
 tags:
   - Cmgp
   - Coastal And Marine Geology Program
   - Coastal Processes
-  - Dune Crest
+  - Dune Toe
   - Dunes
   - Geomorphology
   - Geospatial Analysis
@@ -20,7 +20,7 @@ tags:
   - United States Of America
   - Us Geological Survey
   - Usgs
-  - Usgs5bca099be4b0fc368ebff784
+  - Usgs5bca0f11e4b0fc368ebff85a
   - Whcmsc
   - Woods Hole Coastal And Marine Science Center
 groups: []
