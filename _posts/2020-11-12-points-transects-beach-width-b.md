@@ -1,25 +1,26 @@
 ---
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
-  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Fire
-  Island, NY, 2012
-created: '2020-11-12T17:21:04.585969'
-modified: '2020-11-12T17:21:04.585980'
+  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Coast
+  Guard Beach, MA, 2013-2014
+created: '2020-11-12T17:49:34.424163'
+modified: '2020-11-12T17:49:34.424170'
 state: active
 type: dataset
 tags:
   - Atlantic Ocean
   - Barrier Island
   - Bayesian Network
-  - Cmgp
-  - Coastal And Marine Geology Program
+  - Cape Cod
+  - Cape Cod National Seashore
+  - Cmhrp
+  - Coast Guard Beach
+  - Coastal And Marine Hazards And Resources Program
   - Coastal Erosion
   - Coastal Habitat
   - Coastal Hazards
   - Coastal Processes
   - Erosion
-  - Fire Island
-  - Fire Island National Seashore
   - Geographic Information Systems
   - Geomorphology
   - Geospatial Analysis
@@ -27,12 +28,11 @@ tags:
   - Gis
   - Hazards
   - Land Use And Land Cover
-  - Long Island
+  - Ma
+  - Massachusetts
   - Mean High Water
   - Mhw
-  - New York
   - North America
-  - Ny
   - Probability
   - Sea Level Change
   - Sea Level Rise
@@ -43,10 +43,10 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5d0bc939e4b0941bde4fc61d
+  - Usgs5daa3721e4b09fd3b0c9ce1f
   - Woods Hole Coastal And Marine Science Center
 groups: []
-csv_url: 'https://doi.org/10.5066/P944FPA4'
+csv_url: 'https://doi.org/10.5066/P9V7F6UX'
 json_url: ''
 layout: post
 
