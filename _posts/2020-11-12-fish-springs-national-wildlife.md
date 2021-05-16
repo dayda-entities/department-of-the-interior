@@ -1,7 +1,7 @@
 ---
-title: Fish Springs National Wildlife Refuge Odonata records 2015
-created: '2020-11-12T17:17:39.778877'
-modified: '2020-11-12T17:17:39.778888'
+title: Fish Springs National Wildlife Refuge Odonata records 2007
+created: '2020-11-12T19:18:25.896201'
+modified: '2020-11-12T19:18:25.896208'
 state: active
 type: dataset
 tags:
@@ -49,9 +49,9 @@ tags:
   - Western Pondhawk
   - White Belted Ringtail
 groups: []
-csv_url: 'https://ecos.fws.gov/ServCat/DownloadFile/102068?Reference=61548'
+csv_url: 'https://ecos.fws.gov/ServCat/DownloadFile/102066?Reference=61547'
 json_url: ''
 layout: post
 
 ---
-Records of Odonata (damselflies and dragonflies) found at Fish Springs National Wildlife Refuge in August, 2015. This dataset provides managers with an inventory of dragonflies and damselflies and their location on Fish Springs National Wildlife Refuge.
+Records of Odonata (damselflies and dragonflies) found at Fish Springs National Wildlife Refuge in August, 2007. This dataset provides managers with an inventory of dragonflies and damselflies and their location on Fish Springs National Wildlife Refuge.  This data was used to create a temporal, locality, and overall inventory species checklist for the refuge.
