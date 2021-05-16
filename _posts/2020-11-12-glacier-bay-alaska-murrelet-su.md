@@ -1,7 +1,7 @@
 ---
-title: 'Glacier Bay, Alaska murrelet survey cumulative corrected observations (KM_E)'
-created: '2020-11-12T21:00:47.526002'
-modified: '2020-11-12T21:00:47.526009'
+title: 'Glacier Bay, Alaska murrelet survey external waypoint file (KM_I)'
+created: '2020-11-12T20:19:13.871031'
+modified: '2020-11-12T20:19:13.871037'
 state: active
 type: dataset
 tags:
@@ -18,13 +18,13 @@ tags:
   - Status
   - Trend
 groups: []
-csv_url: 'https://irma.nps.gov/DataStore/DownloadFile/628459?Reference=2265711'
+csv_url: 'https://irma.nps.gov/DataStore/DownloadFile/603611?Reference=2254260'
 json_url: ''
 layout: post
 
 ---
-Cumulative tabular data in CSV form of marbled and Kittlitz's murrelet survey observations made during the SEAN monitoring program. During GLBA field surveys, murrelet group observation data are recorded. This single file covers all data points having bird group sightings collected since 7/5/2011.  Empty trackpoint records are excluded.  Records flagged as having bad data quality are also excluded.
+Deliverable KM_I is comprised of one CSV file per year. It contains the waypoint data recorded on external GPS devices in the course of murrelet surveys. They are intended to mark locations of exceptional events during the survey and serve as backup in case equipment failure forces the crew to record observations using the paper form process.
 
-This data product has been compared against the formal quality criteria specified in protocol KM-2019.1, found to be in complete compliance, and accepted by the program lead for public dissemination on 8/16/2019.
+This data product has been compared against the formal quality criteria specified in the protocol package in effect at the time of data collection, found to be in complete compliance, and accepted by the program lead for public dissemination.
 
-Deliverable KM_E is fully defined in the protocol document package available at NPS Data Store reference 2254276.
+Deliverable KM_I is fully defined in the protocol document package available at NPS Data Store reference 2204691.
