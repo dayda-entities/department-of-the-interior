@@ -1,7 +1,7 @@
 ---
-title: 'Topography data from northern Monterey Bay, California, March 2016'
-created: '2020-11-12T19:06:09.479449'
-modified: '2020-11-12T19:06:09.479456'
+title: 'Topography data from northern Monterey Bay, California, March 2017'
+created: '2020-11-12T19:08:03.862784'
+modified: '2020-11-12T19:08:03.862795'
 state: active
 type: dataset
 tags:
@@ -22,9 +22,9 @@ tags:
   - Usgs
 groups: []
 csv_url: >-
-  https://www.sciencebase.gov/catalog/file/get/59f10e77e4b0220bbd9c6bda?name=mb16_mar_topo.csv
+  https://www.sciencebase.gov/catalog/file/get/59fb42bee4b0531197b16278?name=mb17_mar_topo.csv
 json_url: ''
 layout: post
 
 ---
-This part of the data release presents topography data from northern Monterey Bay, California collected in March 2016. Topography data were collected on foot with survey-grade global navigation satellite system (GNSS) receivers mounted on backpacks and with an all-terrain vehicle (ATV) using a GNSS receiver mounted at a measured height above the ground.
+This part of the data release presents topography data from northern Monterey Bay, California collected in March 2017. Topography data were collected on foot with survey-grade global navigation satellite system (GNSS) receivers mounted on backpacks and with an all-terrain vehicle (ATV) using a GNSS receiver mounted at a measured height above the ground.
