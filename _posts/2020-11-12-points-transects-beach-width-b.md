@@ -1,20 +1,19 @@
 ---
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
-  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Coast
-  Guard Beach, MA, 2013-2014
-created: '2020-11-12T17:49:34.424163'
-modified: '2020-11-12T17:49:34.424170'
+  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Cape
+  Hatteras, NC, 2014
+created: '2020-11-12T17:55:52.260425'
+modified: '2020-11-12T17:55:52.260432'
 state: active
 type: dataset
 tags:
   - Atlantic Ocean
   - Barrier Island
   - Bayesian Network
-  - Cape Cod
-  - Cape Cod National Seashore
+  - Cape Hatteras
+  - Cape Hatteras National Seashore
   - Cmhrp
-  - Coast Guard Beach
   - Coastal And Marine Hazards And Resources Program
   - Coastal Erosion
   - Coastal Habitat
@@ -28,11 +27,12 @@ tags:
   - Gis
   - Hazards
   - Land Use And Land Cover
-  - Ma
-  - Massachusetts
   - Mean High Water
   - Mhw
+  - Nc
   - North America
+  - North Carolina
+  - Ocracoke Island
   - Probability
   - Sea Level Change
   - Sea Level Rise
@@ -43,7 +43,7 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5daa3721e4b09fd3b0c9ce1f
+  - Usgs5daa3765e4b09fd3b0c9ce69
   - Woods Hole Coastal And Marine Science Center
 groups: []
 csv_url: 'https://doi.org/10.5066/P9V7F6UX'
