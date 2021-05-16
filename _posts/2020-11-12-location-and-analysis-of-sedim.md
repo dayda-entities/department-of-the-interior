@@ -1,70 +1,55 @@
 ---
 title: >-
-  Location and analysis of sediment samples collected during field activity
-  2011-015-FA by the U.S. Geological Survey and Massachusetts Office of Coastal
-  Zone Management offshore of Massachusetts around Cape Cod and the Islands in
-  September 2011 (point shapefile and CSV file)
-created: '2020-11-12T20:58:11.796081'
-modified: '2020-11-12T20:58:11.796088'
+  Location and analysis of sediment samples collected in 2012 by the U.S.
+  Geological Survey in the Connecticut River during field activity 2012-024-FA
+  (point shapefile).
+created: '2020-11-12T19:57:42.785654'
+modified: '2020-11-12T19:57:42.785661'
 state: active
 type: dataset
 tags:
-  - '2011'
   - Atlantic Ocean
-  - Bay
-  - Buzzards Bay
-  - Cape Cod
-  - Cape Cod Bay
   - Clay
   - Cmgp
   - Coastal And Marine Geology Program
-  - Continental Shelf
-  - Czm
-  - Elizabeth Islands
-  - Field Activity 2011 015 Fa
-  - Field Activity Number 11015
-  - Grab Sampling
+  - Connecticut
+  - Connecticut River
+  - Esri Shapefile
+  - Essex
+  - Estuary
+  - Field Activity 2012 024 Fa
+  - Field Activity Number 12024
+  - Field Sampling
+  - Grain Size
   - Grain Size Analysis
   - Gravel
-  - Ground Truth
-  - Ma Czm
+  - Long Island Sound
   - Marine Geology
-  - Marthas Vineyard
-  - Massachusetts
-  - Massachusetts Office Of Coastal Zone Management
-  - Massczm
-  - Nantucket
-  - Nomans Land
   - North America
-  - Osv Bold
+  - Old Saybrook
+  - River
+  - Rv Rafael
   - Sand
-  - Sea Floor
-  - Sea Floor Characteristics
-  - Seabed
   - Seabed Observation And Sampling System
   - Seaboss
-  - Seafloor
+  - Seafloor Characteristics
   - Seafloor Samples
   - Sediment Analysis
   - Sediment Data
   - Sediment Samples
   - Sediments
-  - Shapefile
   - Silt
-  - Sound
-  - Stations
-  - Surficial Sediment Classification
+  - Unconsolidated Deposits
   - United States
   - Us Geological Survey
   - Usgs
-  - Van Veen Grab Sampler
-  - Vineyard Sound
+  - Van Veen Grab Samples
   - Whcmsc
   - Woods Hole Coastal And Marine Science Center
 groups: []
-csv_url: 'https://cmgds.marine.usgs.gov/data/field-activity-data/2011-015-FA/'
+csv_url: 'https://cmgds.marine.usgs.gov/data/field-activity-data/2012-024-FA/'
 json_url: ''
 layout: post
 
 ---
-Accurate data and maps of sea-floor geology are important first steps toward protecting habitat, delineating marine resources, and assessing environmental changes due to natural or human effects. Initiated in 2003, the primary objective of the Geologic Mapping of the Massachusetts Sea Floor program is to develop regional geologic framework information for the management of coastal and marine resources. The project is focused on the inshore waters (5â30 meters deep) of Massachusetts. This dataset is from U.S. Geological Survey (USGS) sampling survey 2011-015-FA (September 9â16, 2011) by the USGS Woods Hole Coastal and Marine Science Center and the Massachusetts Office of Coastal Zone Management with partners from the Massachusetts Division of Marine Fisheries and the U.S. Environmental Protection Agency aboard the ocean survey vessel Bold. During the survey, surficial sediment samples and bottom still and video imagery were collected in Cape Cod Bay, Buzzards Bay, and Vineyard Sound; south of Martha's Vineyard; and south and east of Nantucket, Massachusetts.
+A geophysical and geological survey was conducted at the mouth of the Connecticut River from Old Saybrook to Essex, Connecticut, in September 2012. Approximately 230 linear kilometers of digital Chirp subbottom (seismic-reflection) and 234-kilohertz interferometric sonar (bathymetric and backscatter) data were collected along with sediment samples, riverbed photographs, and (or) video at 88 sites within the geophysical survey area. Sediment grab samples were collected at 72 of the 88 sampling sites, video was acquired at 68 sites, and photographs of the river bottom were taken at 38 sites. These survey data are used to characterize the riverbed by identifying sediment-texture and riverbed morphology. More information can be found on the web page for the Woods Hole Coastal and Marine Science Center field activity: https://cmgds.marine.usgs.gov/fan_info.php?fan=2012-024-FA. Data collected during the 2012 survey can be obtained here: https://doi.org/10.5066/F7PG1Q7V.
