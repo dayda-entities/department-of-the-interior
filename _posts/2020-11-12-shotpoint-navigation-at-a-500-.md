@@ -1,54 +1,51 @@
 ---
 title: >-
   Shotpoint navigation at a 500-shot interval for chirp seismic-reflection data
-  collected in 2012 by the U.S. Geological Survey in the Connecticut River
-  during field activity 2012-024-FA (Point Shapefile)
-created: '2020-11-12T20:27:56.665560'
-modified: '2020-11-12T20:27:56.665567'
+  collected south of Martha's Vineyard and north of Nantucket by the U.S.
+  Geological Survey during field activity 2013-003-FA offshore of Massachusetts
+  in 2013 (2013-003-FA_512i_shot500, Esri Point Shapefile, Geographic, WGS84)
+created: '2020-11-12T20:34:44.161998'
+modified: '2020-11-12T20:34:44.162009'
 state: active
 type: dataset
 tags:
-  - '2012'
+  - '2013'
+  - 512i
   - Atlantic Ocean
+  - Cape Cod
   - Chirp
   - Cmgp
   - Coastal And Marine Geology Program
-  - Connecticut
-  - Connecticut River
-  - Edgetech 424
-  - Essex
-  - Estuary
-  - Field Activity 2012 024 Fa
-  - Field Activity Number 12024
-  - Long Island Sound
+  - Edgetech
+  - Field Activity 2013 003 Fa
+  - Field Activity Number 13003
+  - Geospatial Datasets
   - Marine Geology
   - Marine Geophysics
+  - Marthas Vineyard
+  - Massachusetts
+  - Mv Scarlett Isabella
+  - Nantucket
+  - Nantucket Sound
   - Navigation Shotpoint
   - Navigational Data
   - North America
-  - Old Saybrook
-  - River
-  - River Bed
-  - Riverbed
-  - Rv Rafael
   - Sea Floor
   - Seafloor
-  - Seismic Methods
   - Seismic Navigation
   - Seismic Reflection
-  - Seismic Reflection Methods
-  - Sub Bottom Profiling
   - Subbottom
   - Subsurface
   - United States
   - Us Geological Survey
   - Usgs
+  - Usgs Cmg Infobank Id U 03 13 Ma
   - Whcmsc
   - Woods Hole Coastal And Marine Science Center
 groups: []
-csv_url: 'https://cmgds.marine.usgs.gov/data/field-activity-data/2012-024-FA/'
+csv_url: 'http://dx.doi.org/10.3133/ofr20161168'
 json_url: ''
 layout: post
 
 ---
-A geophysical and geological survey was conducted at the mouth of the Connecticut River from Old Saybrook to Essex, Connecticut, in September 2012. Approximately 230 linear kilometers of digital Chirp subbottom (seismic-reflection) and 234-kilohertz interferometric sonar (bathymetric and backscatter) data were collected along with sediment samples, riverbed photographs, and (or) video at 88 sites within the geophysical survey area. Sediment grab samples were collected at 72 of the 88 sampling sites, video was acquired at 68 sites, and photographs of the river bottom were taken at 38 sites. These survey data are used to characterize the riverbed by identifying sediment-texture and riverbed morphology. More information can be found on the web page for the Woods Hole Coastal and Marine Science Center field activity: https://cmgds.marine.usgs.gov/fan_info.php?fan=2012-024-FA. Data collected during the 2012 survey can be obtained here: https://doi.org/10.5066/F7PG1Q7V.
+These data were collected under a cooperative agreement between the Massachusetts Office of Coastal Zone Management (CZM) and the U.S. Geological Survey (USGS), Coastal and Marine Geology Program, Woods Hole Coastal and Marine Science Center (WHCMSC). Initiated in 2003, the primary objective of this program is to develop regional geologic framework information for the management of coastal and marine resources. Accurate data and maps of sea floor geology are important first steps toward protecting fish habitat, delineating marine resources, and assessing environmental changes due to natural or human impacts. The project is focused on the inshore waters of coastal Massachusetts, primarily in water depths of 5 to 30 meters (m) deep. Data collected for the mapping cooperative have been released in a series of USGS Open-File Reports (http://woodshole.er.usgs.gov/project-pages/coastal_mass/). The geophysical data were collected during a survey in 2013 during USGS Field Activity 2013-003-FA (http://cmgds.marine.usgs.gov/fan_info.php?fa=2013-003-FA) and cover approximately 185 square kilometers of the inner continental shelf.
