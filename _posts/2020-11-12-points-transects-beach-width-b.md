@@ -1,23 +1,24 @@
 ---
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
-  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Ship
-  Shoal Island, VA, 2014
-created: '2020-11-12T19:37:44.992946'
-modified: '2020-11-12T19:37:44.992954'
+  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Cape
+  Lookout, NC, 2014
+created: '2020-11-12T19:49:13.577216'
+modified: '2020-11-12T19:49:13.577225'
 state: active
 type: dataset
 tags:
   - Atlantic Ocean
   - Barrier Island
   - Bayesian Network
+  - Cape Lookout
+  - Cape Lookout National Seashore
   - Cmhrp
   - Coastal And Marine Hazards And Resources Program
   - Coastal Erosion
   - Coastal Habitat
   - Coastal Hazards
   - Coastal Processes
-  - Delmarva Peninsula
   - Erosion
   - Geographic Information Systems
   - Geomorphology
@@ -28,22 +29,23 @@ tags:
   - Land Use And Land Cover
   - Mean High Water
   - Mhw
+  - Nc
   - North America
+  - North Carolina
+  - North Core Islands
   - Probability
   - Sea Level Change
   - Sea Level Rise
-  - Ship Shoal Island
+  - Shackleford Banks
   - Shoreline Change
+  - South Core Islands
   - St Petersburg Coastal And Marine Science Center
   - Transect Sampling
   - United States
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5daa37f4e4b09fd3b0c9cf08
-  - Va
-  - Virginia
-  - Virginia Coast Reserve
+  - Usgs5daa3752e4b09fd3b0c9ce56
   - Woods Hole Coastal And Marine Science Center
 groups: []
 csv_url: 'https://doi.org/10.5066/P9V7F6UX'
