@@ -1,9 +1,9 @@
 ---
 title: >-
   Grain size and bulk density of sediment cores from Little Holland Tract and
-  Liberty Island, Sacramento-San Joaquin Delta, California, 2016
-created: '2020-11-12T20:39:58.918282'
-modified: '2020-11-12T20:39:58.918289'
+  Liberty Island, Sacramento-San Joaquin Delta, California, 2014
+created: '2020-11-12T20:51:00.497654'
+modified: '2020-11-12T20:51:00.497662'
 state: active
 type: dataset
 tags:
@@ -34,4 +34,4 @@ json_url: ''
 layout: post
 
 ---
-Grain size distribution and bulk density are reported for sediment push cores from two flooded agricultural tracts, Little Holland Tract and Liberty Island, in the Sacramento-San Joaquin Delta, California. Push core samples were collected from 17 sites by the U.S Geological Survey in August, 2016. Each core was analyzed at multiple depths to investigate variations in particle sizes with depth below the sediment surface. The same sites were sampled previously in 2014 (https://www.sciencebase.gov/catalog/item/5a73a58fe4b0a9a2e9e172cf). These data provide insight into the variation of particle size distributions in space, bed depth, and time.
+Grain size distribution and bulk density are reported for sediment push cores from two flooded agricultural tracts, Little Holland Tract and Liberty Island, in the Sacramento-San Joaquin Delta, California. Push core samples were collected from 14 sites by the U.S Geological Survey in August, 2014. Each core was analyzed at multiple depths to investigate variations in particle sizes with depth below the sediment surface. The same sites were sampled again in 2016 (https://www.sciencebase.gov/catalog/item/5a73aa70e4b0a9a2e9e172de). These data provide insight into the variation of particle size distributions in space, bed depth, and time.
