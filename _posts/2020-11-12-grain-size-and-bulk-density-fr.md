@@ -1,9 +1,9 @@
 ---
 title: >-
   Grain size and bulk density from Little Holland Tract and Liberty Island,
-  Sacramento-San Joaquin Delta, California, 2015 to 2019
-created: '2020-11-12T19:48:38.511833'
-modified: '2020-11-12T19:48:38.511840'
+  Sacramento-San Joaquin Delta, California, 2015 to 2017
+created: '2020-11-12T19:57:16.466518'
+modified: '2020-11-12T19:57:16.466529'
 state: active
 type: dataset
 tags:
@@ -30,10 +30,9 @@ tags:
   - Usbr
   - Usgs
 groups: []
-csv_url: >-
-  https://www.sciencebase.gov/catalog/file/get/5eb5ceaf82ce25b5135ae895?name=GrainSizeBD_LHT-LI_2015to2019.csv
+csv_url: 'https://doi.org/10.5066/F7V1241K'
 json_url: ''
 layout: post
 
 ---
-Grain size distribution and bulk density are reported for sediment samples from two flooded agricultural tracts, Little Holland Tract and Liberty Island, in the Sacramento-San Joaquin Delta, California. Samples were repeatedly collected at 8 sites using a Ponar grab or push core samplers during 19 visits to the study area from 2015 to 2019. The long-term time series data collection stations (sites LWA, HVB, HWC, and LVB) were sampled on almost every field survey, and the remaining sites were sampled 6 or times or fewer, some only once. All samples were analyzed for grain size distribution and some were analyzed for bulk density. These data provide insight into how particle size distributions varied spatially and temporally.
+Grain size distribution and bulk density are reported for sediment samples from two flooded agricultural tracts, Little Holland Tract and Liberty Island, in the Sacramento-San Joaquin Delta, California. Samples were repeatedly collected at 8 sites using a Ponar grab or push core samplers during 13 visits to the study area from 2015 to 2017. The long-term time series data collection stations (sites LWA, HVB, HWC, and LVB) were sampled on almost every field survey, and the remaining sites were sampled 6 or times or fewer, some only once. All samples were analyzed for grain size distribution and some were analyzed for bulk density. These data provide insight into how particle size distributions varied spatially and temporally.
