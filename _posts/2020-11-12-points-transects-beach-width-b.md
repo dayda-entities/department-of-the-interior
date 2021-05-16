@@ -2,12 +2,13 @@
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
   habitat metrics at 50-m alongshore transects and 5-m cross-shore points
-  Fisherman Island, VA, 2014
-created: '2020-11-12T19:52:37.638085'
-modified: '2020-11-12T19:52:37.638093'
+  Assawoman Island, VA, 2014
+created: '2020-11-12T19:54:44.240075'
+modified: '2020-11-12T19:54:44.240083'
 state: active
 type: dataset
 tags:
+  - Assawoman Island
   - Atlantic Ocean
   - Barrier Island
   - Bayesian Network
@@ -19,8 +20,6 @@ tags:
   - Coastal Processes
   - Delmarva Peninsula
   - Erosion
-  - Fisherman Island
-  - Fisherman Island National Wildlife Refuge
   - Geographic Information Systems
   - Geomorphology
   - Geospatial Analysis
@@ -41,9 +40,11 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5daa37b9e4b09fd3b0c9cec4
+  - Usgs5daa379be4b09fd3b0c9cea2
   - Va
   - Virginia
+  - Virginia Coast Reserve
+  - Wallops Island
   - Woods Hole Coastal And Marine Science Center
 groups: []
 csv_url: 'https://doi.org/10.5066/P9V7F6UX'
