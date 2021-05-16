@@ -2,13 +2,12 @@
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
   habitat metrics at 50-m alongshore transects and 5-m cross-shore points
-  Assawoman Island, VA, 2014
-created: '2020-11-12T19:54:44.240075'
-modified: '2020-11-12T19:54:44.240083'
+  Metompkin Island, VA, 2014
+created: '2020-11-12T18:40:35.511864'
+modified: '2020-11-12T18:40:35.511872'
 state: active
 type: dataset
 tags:
-  - Assawoman Island
   - Atlantic Ocean
   - Barrier Island
   - Bayesian Network
@@ -28,6 +27,7 @@ tags:
   - Hazards
   - Land Use And Land Cover
   - Mean High Water
+  - Metompkin Island
   - Mhw
   - North America
   - Probability
@@ -40,11 +40,10 @@ tags:
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5daa379be4b09fd3b0c9cea2
+  - Usgs5daa37c8e4b09fd3b0c9ced5
   - Va
   - Virginia
   - Virginia Coast Reserve
-  - Wallops Island
   - Woods Hole Coastal And Marine Science Center
 groups: []
 csv_url: 'https://doi.org/10.5066/P9V7F6UX'
