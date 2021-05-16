@@ -1,10 +1,10 @@
 ---
 title: >-
   points, transects, beach width Barrier island geomorphology and shorebird
-  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Smith
+  habitat metrics at 50-m alongshore transects and 5-m cross-shore points Wreck
   Island, VA, 2014
-created: '2020-11-12T20:52:50.945250'
-modified: '2020-11-12T20:52:50.945262'
+created: '2020-11-12T21:02:51.180136'
+modified: '2020-11-12T21:02:51.180144'
 state: active
 type: dataset
 tags:
@@ -33,18 +33,18 @@ tags:
   - Sea Level Change
   - Sea Level Rise
   - Shoreline Change
-  - Smith Island
   - St Petersburg Coastal And Marine Science Center
   - Transect Sampling
   - United States
   - Us Geological Survey
   - Usa
   - Usgs
-  - Usgs5daa3803e4b09fd3b0c9cf19
+  - Usgs5daa3812e4b09fd3b0c9cf2a
   - Va
   - Virginia
-  - Virginia Coast Reserve
   - Woods Hole Coastal And Marine Science Center
+  - Wreck Island
+  - Wreck Island Natural Area Preserve
 groups: []
 csv_url: 'https://doi.org/10.5066/P9V7F6UX'
 json_url: ''
