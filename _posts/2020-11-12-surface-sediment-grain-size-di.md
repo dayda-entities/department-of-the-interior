@@ -1,9 +1,9 @@
 ---
 title: >-
   Surface-sediment grain-size distributions from the Elwha River delta,
-  Washington, March 2013
-created: '2020-11-12T19:20:52.337615'
-modified: '2020-11-12T19:20:52.337622'
+  Washington, September 2014
+created: '2020-11-12T21:00:58.119558'
+modified: '2020-11-12T21:00:58.119566'
 state: active
 type: dataset
 tags:
@@ -21,9 +21,9 @@ tags:
   - Substrate
 groups: []
 csv_url: >-
-  https://www.sciencebase.gov/catalog/file/get/58518ec8e4b0f99207c4f145/?name=ew13_mar_grainsize.csv
+  https://www.sciencebase.gov/catalog/file/get/583e21b2e4b0f0dc05ea5490/?name=ew14_sept_grainsize.csv
 json_url: ''
 layout: post
 
 ---
-This portion of the data release presents sediment grain-size data from samples collected on the Elwha River delta, Washington, in March 2013 (USGS Field Activity W-01-13-PS). Surface sediment was sampled using a small ponar, or 'grab', sampler on March 4, 2013 from the R/V Frontier at a total of 48 locations in water depths between about 1 and 12 m around the delta. An additional 7 sediment samples were collected between March 6 and March 7, 2013 at low tide from intertidal locations on the delta. The locations of grab samples were determined with a hand-held global navigation satellite system (GNSS). The grain-size distributions of samples were determined using standard techniques developed by the USGS Pacific Coastal and Marine Science Center sediment lab. Grab samples that yielded less than 50 g of sediment were omitted from analysis and are classified as "no sample". The grain-size data are provided in a comma-delimited spreadsheet (.csv).
+This portion of the data release presents sediment grain-size data from samples collected on the Elwha River delta, Washington, in September 2014 (USGS Field Activity 2014-649-FA). Surface sediment was collected from 63 locations using a small ponar, or 'grab', sampler from the R/V Frontier on September 5, 2014 in depths between about 1 and 17 m around the delta. The locations of grab samples were determined with a hand-held global navigation satellite system (GNSS). The grain-size distributions of samples were determined using standard techniques developed by the USGS Pacific Coastal and Marine Science Center sediment lab. The grain-size data are provided in a comma-delimited spreadsheet (.csv).
