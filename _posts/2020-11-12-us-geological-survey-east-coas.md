@@ -1,0 +1,303 @@
+---
+title: >-
+  U.S. Geological Survey East Coast Sediment Texture Database (2014,
+  ECSTDB2014.SHP)
+created: '2020-11-12T19:06:58.914529'
+modified: '2020-11-12T19:06:58.914541'
+state: active
+type: dataset
+tags:
+  - Ak
+  - Al
+  - Alaska
+  - Albemarle Sound
+  - Alligator River
+  - Altamaha River
+  - Apalachicola Bay
+  - Arabian Sea
+  - Arcgis Point Shapefile
+  - Arcgis Shapefile
+  - Arctic Ocean
+  - Arizona
+  - Atlantic Canyon
+  - Atlantic Margin
+  - Baltimore Canyon
+  - Barnegat Bay
+  - Barracuda Bank
+  - Bay Of Bengal
+  - Bay Of Fundy
+  - Bear Seamount
+  - Bermuda
+  - Blake Escarpment
+  - Blake Nose
+  - Blake Plateau
+  - Blake Ridge
+  - Block Canyon
+  - Block Island Sound
+  - Bogue Inlet
+  - Boston
+  - Boston Harbor
+  - Broad Sound
+  - Browns Bank
+  - Buzzards Bay
+  - Buzzards Bayvineyard Sound
+  - California
+  - Canada
+  - Cape Ann
+  - Cape Charles
+  - Cape Cod Bay
+  - Cape Cod National Seashore Park
+  - Cape Elizabeth
+  - Cape Fear
+  - Cape Fear Ridge
+  - Cape Hatteras
+  - Cape Henry
+  - Cape Lookout
+  - Cape May
+  - Cape Neddick
+  - Cape Porpoise
+  - Cape Romain
+  - Cape Sable
+  - Caribbean Sea
+  - Cascadia
+  - Casco Bay
+  - Cashes Ledge
+  - Chandeleur Islands
+  - Chappaquiddick Island
+  - Chappaquoit Beach
+  - Charleston
+  - Chesapeake Bay
+  - Chincoteaque Inlet
+  - Cmgp
+  - Coastal And Marine Geology Program
+  - Coastal Massachusetts
+  - Connecticut
+  - Connecticut River
+  - Connecticut River Estuary
+  - Continental Shelf
+  - Continental Slope
+  - Continental United States
+  - Coring
+  - Corsair Canyon
+  - Croatan Sound
+  - Dauphin Island
+  - Deep Water Dumpsite 106
+  - Delaware
+  - Delaware Bay
+  - Delaware River
+  - Delmar Peninsula
+  - Desecho Ridge
+  - Dogbone Basin
+  - Double Canyon
+  - Dwd 106
+  - East Channel
+  - East Coast
+  - Escollo Arenas
+  - Falkner Island
+  - Fippennies Ledge
+  - Fire Island
+  - Fletcher Neck
+  - Florida
+  - Florida Keys
+  - Florida Platform
+  - Geographic Information System
+  - Georges Bank
+  - Georges Basin
+  - Georgia
+  - Georgia Embayment
+  - Geospatial Datasets
+  - Gerda Terrace
+  - Ghana
+  - Gilbert Canyon
+  - Gis
+  - Grab Sampler
+  - Grain Size Analyses
+  - Grain Size Analysis
+  - Grand Manan Island
+  - Graves
+  - Great Lakes
+  - Great Round Shoal
+  - Great South Channel
+  - Gulf Of Maine
+  - Gulf Of Mexico
+  - Hawaii
+  - Hawaiian Islands
+  - Heel Tapper Canyon
+  - Hudson Canyon
+  - Hudson River
+  - Hudson Shelf Valley
+  - Hudson Valley
+  - Hydrographer Canyon
+  - Illinois
+  - Indiana Shoals
+  - Inner Blake Plateau
+  - Inner Shelf
+  - Ipswich Bay
+  - Isle Of Shoals
+  - Italy
+  - Jeffreys Basin
+  - Jeffreys Ledge
+  - Jewell Island
+  - John Day Reservoir
+  - Kennebec
+  - Kentucky
+  - La
+  - Lake Baikal
+  - Lake Mead
+  - Lake Michigan
+  - Lake Titicaca
+  - Lamberts Cove
+  - Little Bahama Bank
+  - Little Egg Harbor
+  - Long Bay
+  - Long Island Sound
+  - Los Angeles
+  - Louisiana
+  - Lydonia Canyon
+  - Mackenzie Delta
+  - Maine
+  - Marblehead
+  - Marine Geology
+  - Marthas Vineyard
+  - Marthas Vineyard Coastal Observatory
+  - Maryland
+  - Mass Bay
+  - Massachusetts
+  - Massachusetts Bay
+  - Me
+  - Merrimack Embayment
+  - Merrimack River
+  - Mexico
+  - Mid Atlantic Bight
+  - Mid Atlantic Slope
+  - Mississippi Fan
+  - Mona Block
+  - Mona Canyon
+  - Mona Slide
+  - Monomoy Island
+  - Murray Basin
+  - Mytilus Seamount
+  - Nahant
+  - Nantucket
+  - Nantucket Bay
+  - Nantucket Shoals
+  - Nantucket Sound
+  - Narragansett Bay
+  - Navigational Data
+  - Nc
+  - Neuse River
+  - Nevada
+  - New Brunswick
+  - New England
+  - New Hampshire
+  - New Haven Dumpsite
+  - New Haven Harbor
+  - New Jersey
+  - New York
+  - New York Bight
+  - New York Harbor
+  - New Yorknew Jersey
+  - Nomans Land
+  - Norfolk Canyon
+  - Noroit Seamount
+  - North Carolina
+  - North Slope
+  - North Wall Virgin Islands Basin
+  - Northeast Channel
+  - Norway
+  - Nova Scotia
+  - Ny
+  - Ny Nj
+  - Nynj
+  - Ocean City
+  - Oceanographer Canyon
+  - Oculina Bank
+  - Ogunquit River
+  - Old Orchard Beach
+  - Old Scantum
+  - Oqunquit
+  - Oregon Inlet
+  - Pacific
+  - Palos Verdes
+  - Pamlico Sound
+  - Particle Size Analysis
+  - Peak Island
+  - Pennsylvania
+  - Penobscot
+  - Platts Bank
+  - Plum Island
+  - Plymouth
+  - Point Data
+  - Popham
+  - Pophamkennebec
+  - Port Valdez
+  - Provincetown Harbor
+  - Puerto Rico
+  - Quicks Hole
+  - Red Brook Harbor
+  - Rehobeth Beach
+  - Ressurection Bay
+  - Rhode Island
+  - Rhode Island Sound
+  - Roanoke Point
+  - Russia
+  - Saco Bay
+  - Sample Location
+  - Sandwich Harbor
+  - Sapelo Island
+  - Sbnms
+  - Scotian Shelf
+  - Sea Floor Characteristics
+  - Seafloor Geology
+  - Sedimentary Dynamics
+  - Sedimentary Processes
+  - Simple Bottom Descriptions
+  - Slope
+  - Somes Sound
+  - South Carolina
+  - South Lake Michigan
+  - Southern Long Island
+  - Southern New England
+  - Southwest Puerto Rico Shelf
+  - Southwest Washington
+  - St Catherines Sound
+  - St Clair River
+  - Stellwagen Bank
+  - Stellwagen Bank National Marine Sanctuary
+  - Stellwagen Basin
+  - Straits Of Florida
+  - Strataform
+  - Surficial Sediments
+  - Susquehanna River
+  - Tarpaulin Cove
+  - Texas
+  - Tillies Basin
+  - Toms Canyon
+  - Us Atlantic East Coast
+  - Us Geological Survey
+  - Usgs
+  - Veatch Canyon
+  - Vineyard Sound
+  - Virginia
+  - Washington
+  - Washington Canyon
+  - Welker Canyon
+  - West Falmouth Harbor
+  - West Florida Shelf
+  - Western Long Island Sound
+  - Western Puerto Rico Shelf
+  - Whcmsc
+  - Wildcat Knolls
+  - Wilkinson Basin
+  - Wilmington Canyon
+  - Wood Island
+  - Woods Hole Coastal And Marine Science Center
+  - Wrightsville Beach
+  - Wyoming
+groups: []
+csv_url: 'https://pubs.usgs.gov/of/2005/1001/data/surficial_sediments/ecstdb2014.csv'
+json_url: ''
+layout: post
+
+---
+This sediment database contains location, description, and texture of samples taken by numerous marine sampling programs. Most of the samples are from the Atlantic Continental Margin of the United States, but some are from as diverse locations as Lake Baikal, Russia, the Hawaiian Islands region, Puerto Rico, the Gulf of Mexico, and Lake Michigan. The database presently contains data for over 27,000 samples, which includes texture data for approximately 3800 samples taken or analyzed by the Atlantic Continental Margin Program (ACMP), a joint U.S. Geological Survey/Woods Hole Oceanographic Institution project conducted from 1962 to 1970. As part of the ACMP, some historical data from samples collected between 1955 and 1962 were also incorporated into the dataset.
