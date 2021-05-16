@@ -1,55 +1,39 @@
 ---
 title: >-
   Shot point navigation at even 500 shot intervals for EdgeTech SB-512i chirp
-  seismic-reflection data collected in 2015 by the U.S. Geological Survey along
-  the Delmarva Peninsula, MD and VA (Esri point shapefile, GCS WGS 84).
-created: '2020-11-12T18:15:04.412235'
-modified: '2020-11-12T18:15:04.412243'
+  seismic-reflection data collected in 2014 by the U.S. Geological Survey
+  offshore of Fire Island, NY (Esri point shapefile, GCS WGS 84).
+created: '2020-11-12T20:10:10.535782'
+modified: '2020-11-12T20:10:10.535794'
 state: active
 type: dataset
 tags:
-  - 512i
-  - Assateague Island
-  - Assateague Island National Seashore
   - Atlantic Ocean
-  - Chincoteague Bay
-  - Chincoteague Inlet
-  - Chincoteague Island
-  - Chincoteague National Wildlife Refuge
-  - Chirp
   - Cmgp
   - Coastal And Marine Geology Program
-  - Cobb Island
-  - Delaware
-  - Delmarva Peninsula
-  - Field Activity Number 2015 001 Fa
-  - Fisherman Island
-  - Geospatial Datasets
-  - Hog Island
+  - Edgetech 512i
+  - Field Activity Number 2014 009 Fa
+  - Fire Island
+  - Fire Island National Seashore
+  - Long Island
   - Marine Geology
   - Marine Geophysics
-  - Maryland
-  - Myrtle Island
-  - Navigational Data
-  - Parramore Island
-  - Seismic Navigation
-  - Seismic Profile
-  - Seismic Reflection
-  - Ship Shoal Island
-  - Shot Point
-  - Shot Point Navigation
-  - Smith Island
+  - New York
+  - North America
+  - Ocean Sciences
+  - Seismic Reflection Methods
+  - Seismic Reflection Navigation
+  - Seismic Trackline Navigation
+  - Sub Bottom Profiling
+  - United States
   - Us Geological Survey
   - Usgs
-  - Virginia
-  - Wallops Island
   - Whcmsc
   - Woods Hole Coastal And Marine Science Center
-  - Wreck Island
 groups: []
-csv_url: 'https://cmgds.marine.usgs.gov/data/field-activity-data/2015-001-FA/'
+csv_url: 'https://cmgds.marine.usgs.gov/data/field-activity-data/2014-009-FA/'
 json_url: ''
 layout: post
 
 ---
-The Delmarva Peninsula is a 220-kilometer-long headland, spit, and barrier island complex that was significantly affected by Hurricane Sandy in the fall of 2012. The U.S. Geological Survey conducted cruises during the summers of 2014 and 2015 to map the inner continental shelf of the Delmarva Peninsula using geophysical and sampling techniques to define the geologic framework that governs coastal system evolution at storm-event and longer timescales. Geophysical data collected during the cruises include swath bathymetric, sidescan sonar, chirp and boomer seismic reflection profiles, grab sample and bottom photograph data. More information about the USGS survey conducted as part of the Hurricane Sandy Response-- Geologic Framework and Coastal Vulnerability Study can be found at the project website or on the WHCMSC Field Activity Web pages: https://woodshole.er.usgs.gov/project-pages/delmarva/, https://cmgds.marine.usgs.gov/fan_info.php?fan=2014-002-FA and https://cmgds.marine.usgs.gov/fan_info.php?fan=2015-001-FA. Data collected during the 2014 survey can be obtained here: https://doi.org/10.5066/F7MW2F60
+The U.S. Geological Survey (USGS) conducted a geophysical and sampling survey in October 2014 that focused on a series of shoreface-attached ridges offshore of western Fire Island, NY. Seismic-reflection data, surficial grab samples and bottom photographs and video were collected along the lower shoreface and inner continental shelf. The purpose of this survey was to assess the impact of Hurricane Sandy on this coastal region. These data were compared to seismic-reflection and surficial sediment data collected by the USGS in the same area in 2011 to evaluate any post-storm changes in seabed morphology and modern sediment thickness on the inner continental shelf. For more information about the WHCMSC Field Activity, see: https://cmgds.marine.usgs.gov/fan_info.php?fan=2014-009-FA.
