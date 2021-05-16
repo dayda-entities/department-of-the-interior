@@ -1,9 +1,9 @@
 ---
 title: >-
-  Argos Satellite Tracking Data for Yellow-billed Loons (Gavia adamsii) -
+  Argos Satellite Tracking Data for Spectacled Eiders (Somateria fischeri) -
   Processed Data
-created: '2020-11-12T18:06:52.999050'
-modified: '2020-11-12T18:06:52.999060'
+created: '2020-11-12T20:29:36.834764'
+modified: '2020-11-12T20:29:36.834774'
 state: active
 type: dataset
 tags:
@@ -11,45 +11,42 @@ tags:
   - Animal Tracking
   - Animalsvertebrates
   - Argos
-  - Atqasuk
-  - Biological Classification
+  - Beaufort Sea
+  - Bering Sea
   - Birds
   - Breeding Area
   - Breeding Sites
-  - Chipp River
-  - Distribution
-  - East Asia Flyway
-  - Ecological Dynamics
-  - Field Methods
-  - Field Sampling
-  - Ikpikpuk
-  - Inigok
-  - Loons
-  - Migration
-  - Migration Organisms
-  - Migration Pathway
+  - Capture Recapture Studies
+  - Chukchi Sea
+  - Coastal Ecosystems
+  - Colville River Delta
+  - Ducksgeeseswans
+  - Marine Ecosystems
   - Migratory Birds
-  - Migratory Strategies
+  - Migratory Ratesroutes
+  - Migratory Species
   - North Slope
   - Ornithology
   - Overwintering
-  - Pacific Americas Flyway
+  - Peard Bay
   - Platform Transmitter Terminal
   - Ptt
   - Satellite Transmitter
   - Seasonal Distribution
   - Seasonal Movement
-  - Seward Peninsula
   - Species Life History
-  - Species Migration
+  - Spectacled Eider
+  - Tagging Devices
   - Telemetry
   - Tracking Equipment
-  - Wildlife Biology
+  - Wildlife
   - Wintering Area
+  - Yukon Delta
+  - Yukon Delta National Wildlife Refuge
 groups: []
 csv_url: 'https://www.movebank.org/'
 json_url: ''
 layout: post
 
 ---
-This metadata document describes the data contained in the "processedData" folder of this data package. This data package contains all data collected by the Argos System from 92 satellite transmitters attached to adult Yellow-billed Loons on their breeding range in Arctic Alaska and Canada, 2002-2017. The raw data were processed to accomplish two goals: flag implausible location estimates and decode raw sensor data. Three Comma Separate Value (CSV) tables are included in the "processedData" folder of this data package: 1) the "diag_filteredLocations" table contains one record for every location estimate collected, accompanied by a binary flag that denotes an algorithm's plausibility check. Each record also includes a 'Tracking_Status' variable that denotes whether the location was collected from a live animal, a dead animal, or shed transmitter, 2) the "decodedSensor" table contains decoded sensor data such as a transmitter's temperature, battery voltage, and motion (activity), and 3) the "deploymentAttributes" table contains one record for each transmitter deployment in a CSV formatted table. The deployment attributes file contains information such as when the transmitter was attached to the animal, when tracking of a live animal ended, and a variety of variables describing the animal and transmitter. This table is identical to the "deploymentAttributes" table in the "rawData" folder of this data package.
+This metadata document describes the data contained in the "processedData" folder of this data package. This data package contains all data collected by the Argos System from 217 satellite transmitters attached to Spectacled Eiders on their breeding range in arctic and western Alaska and northeastern Russia, 1993-2011. The raw data were processed to accomplish two goals: flag implausible location estimates and decode raw sensor data. Three Comma Separate Value (CSV) tables are included in the "processedData" folder of this data package: 1) the "diag_filteredLocations" table contains one record for every location estimate collected, accompanied by a binary flag that denotes an algorithm's plausibility check. Each record also includes a 'Tracking_Status' variable that denotes whether the location was collected from a live animal, a dead animal, or shed transmitter, 2) the "decodedSensor" table contains decoded sensor data such as a transmitter's temperature, battery voltage, and motion (activity), and 3) the "deploymentAttributes" table contains one record for each transmitter deployment in a CSV formatted table. The deployment attributes file contains information such as when the transmitter was attached to the animal, when tracking of a live animal ended, and a variety of variables describing the animal and transmitter. This table is identical to the "deploymentAttributes" table in the "rawData" folder of this data package.
