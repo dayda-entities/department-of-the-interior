@@ -1,10 +1,10 @@
 ---
 title: >-
   IR 9 Oregon Coast 1997 Aerial Photography of Nesting Seabird Colony Islands
-  for Monitoring Purposes - Stitched Image (Mosaics) Used to Manual Count
-  Nesting Seabirds
-created: '2021-02-25T20:48:45.203727'
-modified: '2021-02-25T20:48:45.203735'
+  for Monitoring Purposes - Selected Raw Images Used to Manual Count Nesting
+  Seabirds and Flight Information
+created: '2021-02-25T22:15:44.002455'
+modified: '2021-02-25T22:15:44.002462'
 state: active
 type: dataset
 tags:
@@ -16,7 +16,7 @@ tags:
   - Seabird Colony
   - Slide Film
 groups: []
-csv_url: 'https://ecos.fws.gov/ServCat/DownloadFile/193774'
+csv_url: 'https://ecos.fws.gov/ServCat/DownloadFile/193771'
 json_url: ''
 layout: post
 
