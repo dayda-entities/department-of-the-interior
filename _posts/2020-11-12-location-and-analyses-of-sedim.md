@@ -1,69 +1,40 @@
 ---
 title: >-
-  Location and analyses of sediment samples collected by the U.S. Geological
-  Survey in 2015 along the Delmarva Peninsula, MD and VA (Esri point shapefile
-  and CSV file, Geographic, WGS 84).
-created: '2020-11-12T17:59:19.044010'
-modified: '2020-11-12T17:59:19.044021'
+  Location and analyses of sediment samples collected on Stellwagen Bank during
+  U.S. Geological Survey field activity 2017-030-FA, aboard the R/V Auk, May
+  18-23, 2017
+created: '2020-11-12T19:16:40.385099'
+modified: '2020-11-12T19:16:40.385108'
 state: active
 type: dataset
 tags:
-  - Assateague Island
-  - Assateague Island National Seashore
   - Atlantic Ocean
-  - Carbonate
-  - Chincoteague Bay
-  - Chincoteague Inlet
-  - Chincoteague Island
-  - Chincoteague National Wildlife Refuge
-  - Clay
-  - Cmgp
-  - Coastal And Marine Geology Program
-  - Cobb Island
-  - Delaware
-  - Delmarva Peninsula
-  - Esri Shapefile
-  - Field Activity Number 2015 001 Fa
-  - Fisherman Island
-  - Geospatial Datasets
+  - Cmhrp
+  - Coastal And Marine Hazards And Resources Program
+  - Field Monitoring Stations
+  - Grab Sampling
   - Grain Size Analysis
-  - Gravel
   - Ground Truth
-  - Hog Island
   - Marine Geology
-  - Maryland
-  - Mv Scarlett Isabella
-  - Myrtle Island
-  - Navigational Data
-  - Parramore Island
-  - Sand
-  - Sea Floor
+  - Massachusetts
+  - Massachusetts Bay
+  - North America
+  - Sbnms
   - Sea Floor Characteristics
-  - Seabed
-  - Seaboss Sampler
-  - Seafloor
-  - Seafloor Samples
-  - Seafoor
-  - Sediment Data
+  - Sea Floor Samples
+  - Sediment Analysis
   - Sediment Samples
-  - Sediments
-  - Ship Shoal Island
-  - Silt
-  - Smith Island
-  - Stations
-  - Surficial Sediment Classification
+  - Stellwagen Bank
+  - Stellwagen Bank National Marine Sanctuary
+  - United States
   - Us Geological Survey
   - Usgs
-  - Van Veen Grab Sampler
-  - Virginia
-  - Wallops Island
   - Whcmsc
   - Woods Hole Coastal And Marine Science Center
-  - Wreck Island
 groups: []
-csv_url: 'https://cmgds.marine.usgs.gov/data/field-activity-data/2015-001-FA/'
+csv_url: 'https://cmgds.marine.usgs.gov/data/field-activity-data/2017-030-FA/'
 json_url: ''
 layout: post
 
 ---
-The Delmarva Peninsula is a 220-kilometer-long headland, spit, and barrier island complex that was significantly affected by Hurricane Sandy in the fall of 2012. The U.S. Geological Survey conducted cruises during the summers of 2014 and 2015 to map the inner continental shelf of the Delmarva Peninsula using geophysical and sampling techniques to define the geologic framework that governs coastal system evolution at storm-event and longer timescales. Geophysical data collected during the cruises include swath bathymetric, sidescan sonar, chirp and boomer seismic reflection profiles, grab sample and bottom photograph data. More information about the USGS survey conducted as part of the Hurricane Sandy Response-- Geologic Framework and Coastal Vulnerability Study can be found at the project website or on the WHCMSC Field Activity Web pages: https://woodshole.er.usgs.gov/project-pages/delmarva/, https://cmgds.marine.usgs.gov/fan_info.php?fan=2014-002-FA and https://cmgds.marine.usgs.gov/fan_info.php?fan=2015-001-FA. Data collected during the 2014 survey can be obtained here: https://doi.org/10.5066/F7MW2F60
+This field activity is part of the effort to map geologic substrates of the Stellwagen Bank National Marine Sanctuary region off Boston, Massachusetts. The overall goal is to develop high-resolution (1:25,000) interpretive maps, based on multibeam sonar data and seabed sampling, showing surficial geology and seabed sediment dynamics. This cruise was conducted in collaboration with the Stellwagen Bank National Marine Sanctuary, and the data collected will aid research on the ecology of fish and invertebrate species that inhabit the region. The Sanctuary's research vessel, R/V Auk, visited 50 locations on Stellwagen Bank at which a customized Van Veen grab sampler (SEABOSS) equipped with a video camera and a CTD was deployed in drift mode to collect sediment for grain-size analysis, video imagery of the seabed, and measurements of water column properties.
