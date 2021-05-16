@@ -1,65 +1,61 @@
 ---
 title: >-
-  Location of bottom photographs along with images collected in 2012 by the U.S.
-  Geological Survey in the Connecticut River during field activity 2012-024-FA
-  (point shapefile and JPEG images).
-created: '2020-11-12T19:20:35.188811'
-modified: '2020-11-12T19:20:35.188820'
+  Location of bottom photographs along with images collected in July 2016 by the
+  U.S. Geological Survey off Town Neck Beach in Sandwich, Massachusetts, during
+  field activity 2016-037-FA (JPEG images, point shapefile, and CSV file)
+created: '2020-11-12T18:29:58.016477'
+modified: '2020-11-12T18:29:58.016485'
 state: active
 type: dataset
 tags:
-  - '2012'
+  - '2016'
   - Atlantic Ocean
+  - Bottom Imagery
   - Bottom Photographs
-  - Cmgp
-  - Coastal And Marine Geology Program
-  - Connecticut
-  - Connecticut River
-  - Essex
-  - Estuary
-  - Field Activity 2012 024 Fa
-  - Field Activity Number 12024
-  - Gopro
-  - Gopro Hd Hero2
-  - Grain Size Analysis
+  - Cape Cod
+  - Cape Cod Bay
+  - Cmhrp
+  - Coastal And Marine Hazards And Resources Program
+  - Field Activity 2016 037 Fa
+  - Gopro Hero4 Black
   - Ground Truth
-  - Image
+  - Gulf Of Maine
   - Image Collections
+  - Imagery
   - Jpeg
   - Jpg
-  - Long Island Sound
   - Marine Geology
+  - Massachusetts
   - Navigational Data
   - North America
-  - Old Saybrook
-  - Photographic Sampling
-  - Photographs
+  - Photography
   - Photos
-  - Remote Sensing
-  - River
-  - River Bed
-  - Riverbed
   - Rv Rafael
-  - Sampling Navigation
+  - Sandwich
   - Sea Floor
   - Sea Floor Characteristics
+  - Seabed
+  - Seabed Imagery
   - Seabed Observation And Sampling System
   - Seabed Photographs
   - Seaboss
   - Seafloor
-  - Sediment Analysis
+  - Sediments
+  - Shapefile
   - Stations
+  - Town Neck Beach
   - Underwater Photography
   - United States
   - Us Geological Survey
   - Usgs
+  - Usgs5c926dcfe4b0938824573d66
   - Van Veen Grab Sampler
   - Whcmsc
   - Woods Hole Coastal And Marine Science Center
 groups: []
-csv_url: 'https://cmgds.marine.usgs.gov/data/field-activity-data/2012-024-FA/'
+csv_url: 'https://doi.org/10.5066/P9HZHXXV'
 json_url: ''
 layout: post
 
 ---
-A geophysical and geological survey was conducted at the mouth of the Connecticut River from Old Saybrook to Essex, Connecticut, in September 2012. Approximately 230 linear kilometers of digital Chirp subbottom (seismic-reflection) and 234-kilohertz interferometric sonar (bathymetric and backscatter) data were collected along with sediment samples, riverbed photographs, and (or) video at 88 sites within the geophysical survey area. Sediment grab samples were collected at 72 of the 88 sampling sites, video was acquired at 68 sites, and photographs of the river bottom were taken at 38 sites. These survey data are used to characterize the riverbed by identifying sediment-texture and riverbed morphology. More information can be found on the web page for the Woods Hole Coastal and Marine Science Center field activity: https://cmgds.marine.usgs.gov/fan_info.php?fan=2012-024-FA. Data collected during the 2012 survey can be obtained here: https://doi.org/10.5066/F7PG1Q7V.
+Geophysical and geological survey data were collected off Town Neck Beach in Sandwich, Massachusetts, in May and July 2016. Approximately 130 linear kilometers of subbottom (seismic-reflection) and 234-kilohertz interferometric sonar (bathymetric and backscatter) data were collected along with sediment samples, sea floor photographs, and (or) video at 26 sites within the geophysical survey area. Sediment grab samples were collected at 19 of the 26 sampling sites and video and (or) photographic imagery of the sea floor were taken at all 26 sites. These survey data are used to characterize the sea floor by identifying sediment-texture, seabed morphology, and underlying geologic structure and stratigraphy. Data collected during these 2016 surveys are included in this data release: https://doi.org/10.5066/P9HZHXXV. More information can be found on the websites for the Woods Hole Coastal and Marine Science Center field activities at https://cmgds.marine.usgs.gov/fan_info.php?fan=2016-017-FA and https://cmgds.marine.usgs.gov/fan_info.php?fan=2016-037-FA.
