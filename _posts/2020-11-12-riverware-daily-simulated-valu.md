@@ -1,17 +1,17 @@
 ---
-title: RiverWare Daily Simulated values of Streamflow from 2006-2099 Louisiana
-created: '2020-11-12T19:44:06.607037'
-modified: '2020-11-12T19:44:06.607048'
+title: RiverWare Daily Simulated values of Streamflow from 2006-2099 Texas
+created: '2020-11-12T18:23:51.735321'
+modified: '2020-11-12T18:23:51.735329'
 state: active
 type: dataset
 tags:
   - Climate Change
-  - Louisiana
   - Red River
   - Riverware
+  - Texas
   - Water Availability
 groups: []
-csv_url: 'http://dx.doi.org/doi:10.5066/F7J1017G'
+csv_url: 'http://doi.org/10.21429/C91599'
 json_url: ''
 layout: post
 
