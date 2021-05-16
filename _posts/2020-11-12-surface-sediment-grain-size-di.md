@@ -1,9 +1,9 @@
 ---
 title: >-
-  Surface-sediment grain-size distributions of the Elwha River delta,
-  Washington, July 2016
-created: '2020-11-12T20:07:40.700504'
-modified: '2020-11-12T20:07:40.700511'
+  Surface-sediment grain-size distributions from the Elwha River delta,
+  Washington, September 2013
+created: '2020-11-12T18:38:04.002943'
+modified: '2020-11-12T18:38:04.002950'
 state: active
 type: dataset
 tags:
@@ -21,9 +21,9 @@ tags:
   - Substrate
 groups: []
 csv_url: >-
-  https://www.sciencebase.gov/catalog/file/get/582f4083e4b04d580bd4da79/?name=ew16_july_grainsize.csv
+  https://www.sciencebase.gov/catalog/file/get/584ef5efe4b0260a3738198f/?name=ew13_sept_grainsize.csv
 json_url: ''
 layout: post
 
 ---
-This portion of the data release presents sediment grain-size data from samples collected on the Elwha River delta, Washington, in July 2016 (USGS Field Activity 2016-653-FA). Surface sediment was collected from 67 locations using a small ponar, or 'grab', sampler from the R/V Frontier in water depths between about 1 and 17 m around the delta. An additional 38 samples were collected by hand at low tide. A hand-held global satellite navigation system (GNSS) receiver was used to determine the locations of sediment samples. The grain size distributions of suitable samples were determined using standard techniques developed by the USGS Pacific Coastal and Marine Science Center sediment lab. Grab samples that yielded less than 50 g of sediment were omitted from analysis and are classified as "no sample". The grain-size data are provided in a comma-delimited spreadsheet (.csv).
+This portion of the data release presents sediment grain-size data from samples collected on the Elwha River delta, Washington, in September 2013 (USGS Field Activity W-07-13-PS). Surface sediment was collected from 62 locations using a small ponar, or 'grab', sampler from the R/V Frontier on September 19, 2013 in depths between about 1 and 12 m around the delta. An additional 21 sediment samples were collected between September 16 and September 19, 2013 at low tide from intertidal locations on the delta. The locations of grab samples were determined with a hand-held global navigation satellite system (GNSS). The grain-size distributions of samples were determined using standard techniques developed by the USGS Pacific Coastal and Marine Science Center sediment lab. The grain-size data are provided in a comma-delimited spreadsheet (.csv).
