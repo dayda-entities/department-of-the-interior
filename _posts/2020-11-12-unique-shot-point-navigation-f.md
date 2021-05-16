@@ -1,47 +1,44 @@
 ---
 title: >-
-  Unique shot point navigation for chirp seismic data collected in Indian River
-  Bay, Delaware, April 13, 2010, on U.S. Geological Survey Field Activity
-  2010-006-FA (IR_SEISNAV.SHP, Geographic, WGS 84)
-created: '2020-11-12T21:04:37.151115'
-modified: '2020-11-12T21:04:37.151127'
+  Unique shot point navigation for Edgetech SB-424 chirp subbottom profiler data
+  collected by the U.S. Geological Survey in Moultonborough Bay, Lake
+  Winnipesaukee, New Hampshire in 2005 (Geographic, WGS 84, Esri point
+  shapefile, 2005-004-FA_CHIRPSHT.SHP)
+created: '2020-11-12T18:38:50.520177'
+modified: '2020-11-12T18:38:50.520188'
 state: active
 type: dataset
 tags:
-  - Chirp Seismics
+  - Chirp
   - Cmgp
   - Coastal And Marine Geology Program
-  - Delaware
-  - Edgetech 424
-  - Field Activity Number 2010 006 Fa
+  - Edgetech Sb 424 Subbottom Profiler
+  - Field Activity Number 05004
+  - Field Activity Number 2005 004 Fa
+  - Geophysics
   - Geospatial Datasets
-  - Holts Landing
-  - Indian River Bay
-  - Indian River Inlet
-  - Info Bank Id K 6 10 Dl
-  - Lowrance Gps
-  - Marine Geophysics
+  - Lake Winnipesaukee
+  - Marine Geology
+  - Moultonborough Bay
   - Navigation
   - Navigational Data
+  - New Hampshire
   - North America
-  - North Atlantic Ocean
-  - Open File Report 2011 1039
-  - Piney Neck
   - Point Shapefile
-  - Rosedale Beach
-  - Rv Knob
-  - Seismic Navigation
+  - Rv Rafael
+  - Seismic
   - Shot Point Navigation
-  - Sussex County
+  - Subbottom Profiler
   - United States
   - Us Geological Survey
   - Usgs
+  - Usgs Cmgp Infobank Id R 1 05 Nh
   - Whcmsc
   - Woods Hole Coastal And Marine Science Center
 groups: []
-csv_url: 'https://doi.org/10.3133/ofr20111039'
+csv_url: 'https://doi.org/10.5066/F71N7Z4H'
 json_url: ''
 layout: post
 
 ---
-A geophysical survey to delineate the fresh-saline groundwater interface and associated sub-bottom sedimentary structures beneath Indian River Bay, Delaware, was carried out in April 2010. This included surveying at higher spatial resolution in the vicinity of a study site at Holts Landing, where intensive onshore and offshore studies were subsequently completed. The total length of continuous resistivity profiling (CRP) survey lines was 145 kilometers (km), with 36 km of chirp seismic lines surveyed around the perimeter of the bay. Medium-resolution CRP surveying was performed using a 50-meter streamer in a bay-wide grid. Results of the surveying and data inversion showed the presence of many buried paleochannels beneath Indian River Bay that generally extended perpendicular from the shoreline in areas of modern tributaries, tidal creeks, and marshes. An especially wide and deep paleochannel system was imaged in the southeastern part of the bay near White Creek. Many paleochannels also had high-resistivity anomalies corresponding to low-salinity groundwater plumes associated with them, likely due to the presence of fine-grained estuarine mud and peats in the channel fills that act as submarine confining units. Where present, these units allow plumes of low-salinity groundwater that was recharged onshore to move beyond the shoreline, creating a complex fresh-saline groundwater interface in the subsurface. The properties of this interface are important considerations in construction of accurate coastal groundwater flow models. These models are required to help predict how nutrient-rich groundwater, recharged in agricultural watersheds such as this one, makes its way into coastal bays and impacts surface water quality and estuarine ecosystems. For more information on the survey conducted for this project, see https://cmgds.marine.usgs.gov/fan_info.php?fan=2010-006-FA.
+In freshwater bodies of New Hampshire, the most problematic aquatic invasive plant species is Myriophyllum heterophyllum or variable leaf water-milfoil. Once established, variable leaf water-milfoil forms dense beds that can alter the limnologic characteristics of a waterbody, impacting natural lacustrine communities and their habitats. Variable leaf water-milfoil infestations also disrupt recreational uses of waterbodies and have negatively affected swimming, boating, fishing, and property values in and around several lakes and ponds in New Hampshire. In 1965, Moultonborough Bay, Lake Winnipesaukee became the first waterbody in New Hampshire where variable leaf water-milfoil was observed. Variable leaf water-milfoil is native to the Southeastern and Midwestern areas of the United States where more alkaline waters appear to limit the growth of this plant. Outside its native range, however, it adapts well to the relatively acidic, low-alkalinity, and nutrient-poor conditions of oligotrophic lakes and bays similar to Moultonborough Bay. In 2005, the New Hampshire Department of Environmental Services (NHDES) collaborated with the U.S. Geological Survey to investigate the distribution (presence and density) of variable leaf water-milfoil in Moultonborough Bay. This study utilized geophysical systems and conventional water-quality measurements to identify lake-floor environments that may provide suitable habitat for the establishment and growth of variable leaf water-milfoil. The results of the study are intended to assist resource managers in federal and state agencies by providing methods for detecting variable leaf water-milfoil and for identifying areas susceptible to infestation. Ultimately, this information may lead to early detection, prevention, and more effective mitigation strategies. Field activity information for this cruise is available on-line through the U.S. Geological Survey Coastal and Marine Geoscience Data System https://cmgds.marine.usgs.gov/fan_info.php?fa=2005-004-FA.
