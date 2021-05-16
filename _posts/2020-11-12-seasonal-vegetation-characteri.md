@@ -2,8 +2,8 @@
 title: >-
   Seasonal vegetation characteristics in a Spartina foliosa- and Salicornia
   pacifica-dominated salt marsh at China Camp State Park
-created: '2020-11-12T17:32:42.712712'
-modified: '2020-11-12T17:32:42.712719'
+created: '2020-11-12T18:14:01.551342'
+modified: '2020-11-12T18:14:01.551350'
 state: active
 type: dataset
 tags:
