@@ -26,6 +26,10 @@ groups: []
 csv_url: 'https://irma.nps.gov/DataStore/DownloadFile/639352?Reference=2273822'
 json_url: ''
 layout: post
+csv_url_cache: 'https://irma.nps.gov/DataStore/DownloadFile/639352?Reference=2273822'
+json_url_cache: 'https://irma.nps.gov/DataStore/DownloadFile/639352?Reference=2273822'
 
 ---
+
 These files contain SET monitoring data collected at NCBN parks.
+
