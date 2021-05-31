@@ -17,4 +17,5 @@ url: 'http://department-of-the-interior.dayda.org'
 encoding: utf-8
 paginate: 25
 paginate_path: '/page:num/'
+permalink: '/:title/'
 markdown: kramdown
